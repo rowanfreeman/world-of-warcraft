@@ -79,34 +79,40 @@
 
 ### Flame
 
-- **(Start)**: Stack up
+- **(Start)**: Stack up melee; stack up ranged
 - **Magma Burst**: Stack up then run out
-- **Searing Carnage**: Run to the center of the room
+- **Searing Carnage**: Stutter-step to your right if you've got it, everyone else dodge; then let's regroup when it's done
 - **💀 Molten Rupture**: Dodge swirlies
 
 ### Frost
 
-- **Biting Chill**: Healer CD
-- **Absolute Zero**: Split damage; help soak; one in melee, one in ranged
+- **(Start)**: Stack up melee; stack up ranged
+- **Biting Chill**: Healer CD if we need it
+- **Absolute Zero**: Soaks; one in melee, one in ranged
 - **💀 Frigid Torrent**: Watch the boss; dodge orbs
 
-### Stone
+### Earth
 
-- **Erupting Bedrock**: Get away from it
-- **Seismic Rupture**: Dodge swirlies; tank and kill the adds
+- **(Start)**: Ranged group up a bit
+- **Erupting Bedrock**: Get away from the boss; then run in
+- **Seismic Rupture**: Dodge swirlies; adds are coming up
 - **💀 Enveloping Earth**: Healers, absorb shields are up
 
-### Storms
+### Storm
 
-- **Thunder Strike**: Soak
+- **(Start)**: Spread out a bit
+- **Thunder Strike**: Soaks; one person on each
+- **Shocking Burst**: Move away if you've got it
+- **💀 Lightning Crash**: If you've got it, stand near someone to zap them but don't zap them to death, move to someone else
 
 ### Phase 2
 
-- **Ground Shatter**: Spread out; run away; healer CD
-- **Violent Upheaval**: Dodge Swirlies
-- **Freezing Tempest**: Run in; run to the ice boss
-- **Frost Binds**: Interrupt
-- **Lethal Current**: Get away if he's zapping you
+- **(Flame) Magma Flow**: Dodge pools (💀 kill adds, interrupts)
+- **(Frost) Freezing Tempest**: Run in; run to the ice boss
+- **(Frost) Frost Binds**: Interrupt
+- **(Storm) Lethal Current**: Get away if he's zapping you
+- **(Earth) Ground Shatter**: Spread out; run away; healer CD
+- **(Earth) Violent Upheaval**: Dodge Swirlies
 
 ## Broodkeeper Diurna
 

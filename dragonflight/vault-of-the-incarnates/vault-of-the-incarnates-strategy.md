@@ -365,8 +365,8 @@
 
 - On **Normal**, there is no **penalty** for switching altars; but we should probably pretend there is so that we practice for **Heroic**
 - Place a coloured marker at each section
-- We will probably go flame -> frost -> storm -> earth
-  - This seems to be the order of most difficult to least difficult
+- We will probably go **flame** -> **frost** -> **storm** -> **earth**
+  - This seems to be the order of **most difficult** to **least difficult**
   - We have buffs and mana early on, so do the hardest stuff first
 
 ### 📜 Overview
@@ -379,6 +379,8 @@
 - In **phase two** the boss retreats and we deal with **two minibosses**
   - Once we kill the **two minibosses** the fight returns to **phase one** and we repeat
 - Lust at the start
+  - _(This will get us through harder phase sooner)_
+  - _(The fight is now time based, not HP based, so it makes sense to lust early)_
 
 ### 🚶‍♂️ Everyone
 
@@ -386,29 +388,62 @@
 - We need to take the **boss** to one of the **altars**
   - While the boss is at an altar, he gains **abilities** that match that **element**: so at the **flame alter** he'll gain a bunch of **fire abilities**
   - We will visit **all four altars** but we can choose the **order** that we do them in
-  - One of the things he does at each altar is **AoE** on the raid every few seconds and that damage ramps up and so that will pressure us to change altars
+  - One of the things he does at each altar is **AoE** on the raid every few seconds
+    - The damage ramps up and so that will pressure us to change altars
 - After a certain amount of time, the boss will become **immune** and go to the center of the room for **phase two**
   - Two **minibosses** will spawn
-  - There are four possible minibosses: flame, frost, earth and storm and we will fight two of them at a time
+  - There are four possible minibosses: flame, frost, earth and storm, same as the alters, and we will fight two of them at a time
+- Here's what this all looks like (everyone follow me)
+  - We start at the **flame alter** and we fight the boss
+  - Once the boss' **energy bar** gets to **50%**, his flame AoE will be ramped up and hurting a ton, so we move to the **frost altar**
+  - Now we deal with his **frost abilities** and **frost AoE**
+  - Once the boss gets to **100 energy**, we enter phase two
+  - Becuase we went **flame alter** and **frost alter** first, we will get the **flame miniboss** and the **frost miniboss**
+  - We kill those two, then the **boss** rejoins the fight for **phase one** again
+  - This time we start on the **storm altar**
+  - When the boss gets to **50% energy**, we move to the **earth altar**
+  - Then the boss gets to **full energy** again and he retreats and we take on the **storm miniboss** and **earth miniboss**
+  - We kill those **two minibosses** and we enter **phase three** where the boss has access to **all abilities** and slams us with AoE
 
 ### 🛡 Tanks
 
 - The **boss** cannot be in the **middle** of the room or it wipes us
-- Always **face the boss away** from the raid
-- Your tank mechanic from the boss hits hard and is a **knockback** and a **stacking bleed**
-- Watch the boss' energy bar; when it reaches half way, it's time to go to the next altar; call it out and move us
-- 
+- Generally place the boss on the marker and always **face the boss away** from the raid
+- Your tank mechanic from the boss hits hard and is a **knockback** and a **stacking bleed** so maybe be against a wall
+- Your job is to watch the boss' energy bar; when it reaches half way, it's time to go to the next altar; call it out and move us
+  - The first is **flame** then **frost**, and in the next phase one start with **storm** and end with **earth**
+- Other than that, there will be some small adds at the **earth altar** that you need to tank
+  - Be aware that they stack up a **physical damage taken debuff**, so watch out for **overlap** of that plus the **boss debuff**
+- For the minibosses there's not much, just pick one each and the only tank mechanic is that the earth miniboss gains a damage buff every hit
+  - It's not a debuff on you but a buff on it and it clears when you tauntswap
 
 ### 🤺 Raid
 
+- Flame altar
+  - Two groups, **melee stack** and **ranged stack**
+  - **Ranged** start on the **left** near the wall about 25yd behind melee
+  - **Big orange circle** underneath means a pool will spawn underneath you and **detonate**, we all move to the right together to move out of it
+  - **Searing Carnage** is a debuff on a few people, you'll be dropping **small orange swirlies** every couple of seconds which detonate
+    - When you get this, just **stutter-step** to the right, and everyone else dodge
+- Frost altar
+  - **Ranged stack** and **melee stack** again
+  - There is a soak mechanic; we'll get two of them at a time
+  - Just don't overlap them: one in melee, one in ranged
+- Earth altar
+  - There will be a series of **brown circles** that slowly ripple out from the boss
+    - Imagine a **big circle** on the ground around the **boss**, and then imagine that circle **expanding outwards**; that's what it'll be like
+    - The strategy for this is **run away** for the first circle, then **run in** to the boss after it expands outwards
+  - Other than that, dodge big swirlies and kill adds
+- Storm altar
+  - Has a **soak mechanic**, one person per soak
+  - There is a "**run away** if you've got the **blue circle**" mechanic
+- The **minibosses** are not that difficult, so we'll just wing it
+  - The only thing I will mention is that the frost miniboss has a mechanic where you need to run to it
+
 ### ⚕ Healers
 
-### 👌 Summary
-
-- Flame altar:
-- Frost altar:
-- Earth altar:
-- Storm altar:
+- We'll generally want healer CDs towards the **end of an altar**
+  - Zib go first, whenever you feel you need it, then Nattz
 
 ### 💀 Heroic
 
@@ -417,10 +452,12 @@
   - **Fire**: A bunch of **red swirlies** in lines to dodge
   - **Frost**: A bunch of **frost missiles** shoot out from the boss; getting hit hurts a ton and stuns
   - **Earth**: Puts a **healing absorb** on a few people
-  - **Lightning**: Puts a **debuff** on a few people
-    - When it expires, they take **increased lightning damage** and **pulse lightning damage** to the **closest player**
-    - This means that two people with the debuff **should not** be next to each other
-    - Instead, I think the strategy should be people without the debuff "save" the people with the debuff by standing next to them
+  - **Lightning**: Puts a **debuff** on about 3 people
+    - You become a **Tesla coil**
+    - You pulse **lightning** to the closest person, putting a **30% damage taken debuff** on them, stacking
+    - Therefore, the strategy should be that people who get this move around to zap people but not for too many hits
+    - If it hits 8 times total, maybe try to hit 2 or so people, so that each get 4 debuffs
+    - If you stand near one person for too long, the stacks will grow on them and you'll zap them to death
 - The **split damage** at the Forst altar applies a debuff
   - At two stacks, you get frozen; this is clearly to discourage stacking both of them on the raid
   - We already separate them: one for melee and one for ranged
