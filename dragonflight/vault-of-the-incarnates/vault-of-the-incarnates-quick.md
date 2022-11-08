@@ -1,0 +1,117 @@
+<link rel="stylesheet" href="../../assets/style.css" />
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🐇</text></svg>">
+<script src="../../assets/script.js" defer async></script>
+<style>
+    body > h2 {
+        margin-top: 90vh;
+    }
+    body > h2:nth-of-type(1) {
+        margin-top: initial;
+    }
+    body {
+        margin-bottom: 90vh;
+    }
+</style>
+
+<section class="table-of-contents">
+
+- [Eranog](#eranog)
+- [The Primal Council](#the-primal-council)
+- [Dathea, Ascended](#dathea-ascended)
+- [Sennarth, the Cold Breath](#sennarth-the-cold-breath)
+- [Terros](#terros)
+- [Kurog Grimtotem](#kurog-grimtotem)
+- [Broodkeeper Diurna](#broodkeeper-diurna)
+- [Raszageth the Storm-Eater](#raszageth-the-storm-eater)
+
+</section>
+
+# Vault of the Incarnates Quick Guide
+
+## Eranog
+
+- **Molten Cleave**: Dodge
+- **Incinerating Roar**: Healer CD (💀 dodge red swirlies)
+- **Flamerift**: Orange circles drop your pools behind the raid; cluster them; kill adds; tanks shift us along
+- **Collapsing Army**: Stay grouped; everyone focus skull to make a gap; Nattz big heals
+- **💀 Molten Spikes**: Watch your feet; dodge the spikes
+
+## The Primal Council
+
+- **Primal Blizzard**: Speed boosts; everyone touch a pool of fire
+- **Conductive Mark**: Spread out; go to a pillar to cleanse if you've got a blue circle around you; everyone else move out of their way
+- **Meteor Axes**: Help soak big red swirlies; don't put them in the center of the room; healer CD
+- **Earthen Pillar**: Dodge swirlies
+
+## Dathea, Ascended
+
+- **Raging Burst**: Dodge swirlies
+- **Conductive Mark**: Blue circle stay away from others
+- **Crosswinds**: Watch the tornadoes; they're on the move
+- **Cyclone**: Stay away from the boss; healer CD
+- **Coalescing Storm (Add)**: Switch to the add, get it into position; everyone get ready for a knockback; if you have the blue circle debuff do not come up
+
+## Sennarth, the Cold Breath
+
+### Phase 1
+
+- **Chilling Blast**: Blue circles spread out; healer CD
+- **Enveloping Webs**: Cluster your webs; drop some near melee
+- **Gossamer Burst**: Run into some webbing; she's going to pull us in; get far away; healer CD
+
+### Phase 2
+
+- **(Start)**: Ranged get to the back of the platform; get ready to lust
+- **Apex of Ice**: Interrupt
+- **Chilling Blast**: Blue circles spread out and then stand still; you are dropping bombs
+- **Suffocating Webs**: If you have the debuff, get ready for a knockback; don't get knocked off the ledge; tanks take spiders to webbed people
+- **Repelling Burst**: Run into some webbing; get close; she's going to push us
+
+## Terros
+
+- **Rock Blast**: Big yellow swirly stack on melee, help soak; then move out; arrow on your head, form a line behind big yellow swirly
+- **Awakened Earth**: Arrow on your head, form a line behind big yellow swirly
+- **Concussive Slam**: Healer CD if we need
+- **Shattering Impact**: Melee dodge big circle; ranged dodge yellow swirlies
+- **Resonating Annihilation**: Run to the left; speed boosts; dodge swirlies
+
+## Kurog Grimtotem
+
+### Flame
+
+- **(Start)**: Stack up
+- **Magma Burst**: Stack up then run out
+- **Searing Carnage**: Run to the center of the room
+- **💀 Molten Rupture**: Dodge swirlies
+
+### Frost
+
+- **Biting Chill**: Healer CD
+- **Absolute Zero**: Split damage; help soak; one in melee, one in ranged
+- **💀 Frigid Torrent**: Watch the boss; dodge orbs
+
+### Stone
+
+- **Erupting Bedrock**: Get away from it
+- **Seismic Rupture**: Dodge swirlies; tank and kill the adds
+- **💀 Enveloping Earth**: Healers, absorb shields are up
+
+### Storms
+
+- **Thunder Strike**: Soak
+
+### Phase 2
+
+- **Ground Shatter**: Spread out; run away; healer CD
+- **Violent Upheaval**: Dodge Swirlies
+- **Freezing Tempest**: Run in; run to the ice boss
+- **Frost Binds**: Interrupt
+- **Lethal Current**: Get away if he's zapping you
+
+## Broodkeeper Diurna
+
+- **Thing**: Here's the deal
+
+## Raszageth the Storm-Eater
+
+- **Thing**: Here's the deal
