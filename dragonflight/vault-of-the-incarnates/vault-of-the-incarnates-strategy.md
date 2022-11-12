@@ -433,12 +433,12 @@
   - There will be a series of **brown circles** that slowly ripple out from the boss
     - Imagine a **big circle** on the ground around the **boss**, and then imagine that circle **expanding outwards**; that's what it'll be like
     - The strategy for this is **run away** for the first circle, then **run in** to the boss after it expands outwards
-  - Other than that, dodge big swirlies and kill adds
+  - Other than that, dodge **big swirlies** and **kill adds**
 - Storm altar
   - Has a **soak mechanic**, one person per soak
   - There is a "**run away** if you've got the **blue circle**" mechanic
 - The **minibosses** are not that difficult, so we'll just wing it
-  - The only thing I will mention is that the frost miniboss has a mechanic where you need to run to it
+  - The only thing I will mention is that the **frost miniboss** has a mechanic where you need to **run to it**
 
 ### ⚕ Healers
 
@@ -468,19 +468,81 @@
 
 ### ✅ Preparation
 
+<img src="img/broodkeeper-diurna.png" />
+
+- Work in Progress: I'm getting mixed information for normal/heroic depending on source
+- todo
+- The **three markers** on either side of the room are spawn locations for adds
+- Assign ~2 DPS (maybe one melee and one ranged) and one healer as **egg team**
+  - The DPS should be solid at **single-target** and should spec for it
+- **Egg team** means your priority is to stay on the **boss** and be near the **boss**
+- Every 30 seconds, the boss will empower two eggs; you'll see a little timer above them
+  - The **timer expiring** is bad
+  - When this timer comes up, she'll also plant her **Greatstaff** into the ground
+  - If you stand near the **Greatstaff**, you get an **extra action button**
+  - When you press this **extra ability**, a **laser beam** from the Greatstaff will chase you
+  - Take the **beam** over an **egg** to cripple it
+  - A **small whelpling add** will come out of it, just kill it
+
 ### 📜 Overview
+
+- This is a **two-phase add management** fight; lots of **adds**; lots of **AoE**
+- In **phase one** we're going to spend a lot of the time split up into groups
+  - We're going to walk the boss around the room and break her **eggs** while she continuously spawns **packs of adds**
+- Once all of the eggs are down, we enter **phase two** which is a **single-target DPS race** to the end
+- Let's try **lusting** at the start
+  - _(We might need to save lust for the double **Frost Proto-Dragons**)_
 
 ### 🚶‍♂️ Everyone
 
+- Notice the stacks of **Broodkeeper's Bond** on the boss
+- It means that we can't kill the boss until all of the eggs are down; and that's what phase one is
+- We have a team called the **egg team** that will take care of that
+- Everyone else needs to focus on **adds**; you can hit the **boss** if there is nothing else to do, but your priotity is the **waves of adds**
+
 ### 🛡 Tanks
+
+- Have a look at the **boss** and notice that two eggs **glow** near her
+- Every **thirty seconds**, the boss is going to cast **Rapid Incubation** on the nearest two eggs
+- What that means is that after **15 seconds**, the eggs will **hatch**, which is not ideal; we get a big add
+- The **egg team** is responsible for breaking those **eggs**, but it is up to you to **position** her well
+  - So plonk her **between two eggs** that you want to destroy
+- Your job is to walk around the room and use your **egg team** to **destroy eggs**
+- At the same time, **waves of adds** are going to spawn around the room; one of you will need to pick up the adds
+- Keep in mind that the boss has a **tank mechanic** that applies a **DoT** and **Mortal Strike**; healing debuff
+- Not only that, but you need to keep the **add waves** and the **boss** separate; we're talking 50 yards
+  - Adds that are close to the boss gain **buffs**
+- For the **adds waves**
+  - I think they come in **pairs**; so we'll get **one group** of adds and then like **10 seconds later** we'll get **another one** spawn
+  - For the **Earthreaver** adds, which are the **yellow/orange add**, I think you face them away?
+- I believe that the first round of adds will be **blue and green** markers
+  - Then after that, **purple and orange**
+  - (Unless this has changed from beta)
+- In summary: one of you on the **boss**, one of you gathering the **add waves**, you'll need to **swap** when it's painful, and position the **boss** near **eggs** so that the **egg team** can do their job
 
 ### 🤺 Raid
 
 ### ⚕ Healers
 
+- The things that hurt the most are her **Greatstaff** ability, when eggs are being destroyed, and a **frost AoE ability** from one of the adds
+  - The ability is **Chilling Tantrum** from the **Juvenile Frost Proto-Dragon**
+- So **Greatstaff** and **Tantrum** = healing CDs
+
 ### 👌 Summary
 
 ### 💀 Heroic
+
+- **Rapid Incubation** now takes **15 seconds** to hatch a dragon, instead of instantly
+  - Also, there are now two charges of the extra action button
+- **Breaking an egg** with the beam now causes the boss to **AoE** the raid
+  - This effect **stacks**, discouraging multiple eggs from breaking at once
+  - **Two eggs** might be fine, but more than that sounds **lethal**
+- Diurna's **Wildfire** also makes players **explode** in their **4yd radius**
+  - No major changes? Just more important that people **spread out**
+- **Earthreaver** adds and **Frost Proto-Dragon** adds now have tank mechanics that might require a swap
+- **Flamebender** adds do an **AoE**; it hurts people but then **heals back 200%** of the damage done?
+  - Is there an expected change in strategy here? Should we deliberately be in range to be hit by this?
+- **Stormbringer** adds have an ability that hits hard, stuns and buffs them; this **must** be interrupted
 
 ## Raszageth the Storm-Eater
 

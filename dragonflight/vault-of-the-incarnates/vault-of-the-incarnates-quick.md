@@ -116,7 +116,26 @@
 
 ## Broodkeeper Diurna
 
-- **Thing**: Here's the deal
+- **Rapid incubation**: Two eggs have just been chosen, check them
+- **Greatstaff of the Broodkeeper**: Egg team; healer CD if we need
+- **Wildfire**: Spread out; dodge
+- **Icy Shroud**: Dispels and AoE heals
+- **Chilling Tantrum**: Healer CD, personals
+- **Tremors**: Dodge
+- **Ionizing Charge**: Move away if you have the debuff
+
+### Adds
+
+- **[Dragonspawn Flamebender]**: Watch out for spinning fire orbs
+- **[Primalist Mage]**: Interrupts on the mage
+- **[Juvenile Frost Proto-Dragon]**: Healer CD get ready
+- **💀 [Drakonoid Stormbringer]**: Interrupts on Stormbringers
+
+### Phase 2
+
+- **Empowered Greatstaff of the Broodkeeper**: Run away if you have a beam chasing you
+- **Wildfire**: Spread out; dodge
+- **Frozen Shroud**: Dispels; help people break free
 
 ## Raszageth the Storm-Eater
 

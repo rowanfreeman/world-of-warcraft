@@ -34,11 +34,11 @@
     headings
       .filter((x) => x.id !== current.id)
       .forEach((x) => {
-        x.anchor.closest("li").classList.remove("active");
+        x.anchor?.closest("li").classList.remove("active");
       });
 
-    const li = current.anchor.closest("li");
-    if (!li.classList.contains("active")) li.classList.add("active");
+    const li = current.anchor?.closest("li");
+    li?.classList.add("active");
   };
 
   didScroll(window.scrollY);
