@@ -350,7 +350,7 @@
 ### 👌 Summary
 
 - Two groups, melee in the front and ranged a bit behind
-- Big yellow swirly means go to melee and soak
+- Big yellow swirly means soak; on on ranged, one on melee
 - Arrow on your head means form a line behind yellow swirly and drop spike
 - Run left when boss casts massive ability
 
