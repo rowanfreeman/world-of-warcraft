@@ -326,9 +326,10 @@
 ### 🛡 Tanks
 
 - Your tank mechanic is **Concussive Slam**
-  - It shoots out like a **laser beam**; it'll hurt and it'll debuff you; probably swap on each one
-  - Your objective is to aim this ability at the **spikes** in the raid
-  - The **spikes** that are placed by the raid hurt us all and it's up to you to **bowl them over**
+  - It shoots out in a **straight line**; you'll see a **telegraph** for it
+  - It'll hurt and it'll debuff you; probably swap on each one
+  - Your objective is to aim this ability at the **spikes** that will be behind you; the spikes sticking out of the ground
+  - The **spikes** are placed by the raid and they hurt us all and it's up to you to **bowl them over** with the boss' own ability
 - Other than that, help **soak** the **big yellow swirlies**
 
 ### 🤺 Raid
