@@ -410,12 +410,12 @@
 - The **boss** cannot be in the **middle** of the room or it wipes us
 - Generally place the boss on the marker and always **face the boss away** from the raid
 - Your tank mechanic from the boss hits hard and is a **knockback** and a **stacking bleed** so maybe be against a wall
-- Your job is to watch the boss' energy bar; when it reaches half way, it's time to go to the next altar; call it out and move us
+- Your job is to watch the boss' **energy bar**; when it reaches **half way**, it's time to go to the next **altar**; call it out and move us
   - The first is **flame** then **frost**, and in the next phase one start with **storm** and end with **earth**
 - Other than that, there will be some small adds at the **earth altar** that you need to tank
   - Be aware that they stack up a **physical damage taken debuff**, so watch out for **overlap** of that plus the **boss debuff**
-- For the minibosses there's not much, just pick one each and the only tank mechanic is that the earth miniboss gains a damage buff every hit
-  - It's not a debuff on you but a buff on it and it clears when you tauntswap
+- For the **minibosses** there's not much, just pick one each and the only tank mechanic is that the **earth miniboss** gains a damage buff every hit
+  - It's not a **debuff** on you but a **buff** on it and it clears when you **taunt swap**
 
 ### 🤺 Raid
 
@@ -470,13 +470,13 @@
 
 <img src="img/broodkeeper-diurna.png" />
 
-- Work in Progress: I'm getting mixed information for normal/heroic depending on source
-- todo
 - The **three markers** on either side of the room are spawn locations for adds
-- Assign ~2 DPS (maybe one melee and one ranged) and one healer as **egg team**
+- Assign a team as the **egg team**
+  - About one third of the raid DPS (3 - 6?)
+  - One healer per ~5 DPS
   - The DPS should be solid at **single-target** and should spec for it
 - **Egg team** means your priority is to stay on the **boss** and be near the **boss**
-- Every 30 seconds, the boss will empower two eggs; you'll see a little timer above them
+- Every **30 seconds**, the boss will empower **two eggs**; you'll see a little **timer** above them
   - The **timer expiring** is bad
   - When this timer comes up, she'll also plant her **Greatstaff** into the ground
   - If you stand near the **Greatstaff**, you get an **extra action button**
@@ -496,8 +496,9 @@
 ### 🚶‍♂️ Everyone
 
 - Notice the stacks of **Broodkeeper's Bond** on the boss
-- It means that we can't kill the boss until all of the eggs are down; and that's what phase one is
+- It means that we can't **kill the boss** until all of the eggs are down; and that's what **phase one** is
 - We have a team called the **egg team** that will take care of that
+  - Their job is to stay on the boss and break eggs
 - Everyone else needs to focus on **adds**; you can hit the **boss** if there is nothing else to do, but your priotity is the **waves of adds**
 
 ### 🛡 Tanks
@@ -508,11 +509,12 @@
 - The **egg team** is responsible for breaking those **eggs**, but it is up to you to **position** her well
   - So plonk her **between two eggs** that you want to destroy
 - Your job is to walk around the room and use your **egg team** to **destroy eggs**
+  - I've seen groups start on **skull**; the exact **route** you take is up to you, but one possibility is to follow the **trail** on the ground to guide you
 - At the same time, **waves of adds** are going to spawn around the room; one of you will need to pick up the adds
 - Keep in mind that the boss has a **tank mechanic** that applies a **DoT** and **Mortal Strike**; healing debuff
 - Not only that, but you need to keep the **add waves** and the **boss** separate; we're talking 50 yards
   - Adds that are close to the boss gain **buffs**
-- For the **adds waves**
+- For the **add waves**
   - I think they come in **pairs**; so we'll get **one group** of adds and then like **10 seconds later** we'll get **another one** spawn
   - For the **Earthreaver** adds, which are the **yellow/orange add**, I think you face them away?
 - I believe that the first round of adds will be **blue and green** markers
@@ -522,13 +524,33 @@
 
 ### 🤺 Raid
 
+- If you're not in the **egg team** then your priority is **adds**; expect to be running around a lot following the tanks
+- This fight encourages you to **spread out** often but don't overdo it; remember 30yd range for your resident dragon healer
+  - Try to be **close** without **stacking**
+- In terms of **mechanics**, this fight is pretty **straightforward**; there are no splits or soaks or stacks; it's all just dodge
+- The boss will be putting **orange swirlies** on us; that means spread out
+- For the adds **interrupts** are important; in particular on the **Mage** and **Stormbringer**
+  - If you see something to interrupt, **interrupt it**
+- The **Flamebender** adds are going to send out **fire orbs** in the room
+  - The **orbs** don't move but they **rotate** and hose out **fire**, so avoid and dodge these
+- In phase 2 there are no adds and it's a burn phase
+  - The boss will cast **Frozen Shroud** which is an AoE frost nova
+  - When she does this you will be stuck in place by ice but you can attack your own **ice** to break free and also break out other people; so **help others**
+  - I'm not sure if **AoE** works on the **ice**, so you'll have to test it
+
 ### ⚕ Healers
 
 - The things that hurt the most are her **Greatstaff** ability, when eggs are being destroyed, and a **frost AoE ability** from one of the adds
-  - The ability is **Chilling Tantrum** from the **Juvenile Frost Proto-Dragon**
+  - The ability is called **Chilling Tantrum** from the **Juvenile Frost Proto-Dragon**
 - So **Greatstaff** and **Tantrum** = healing CDs
 
 ### 👌 Summary
+
+- Phase 1
+  - We're breaking eggs and killing adds
+  - Orange swirlies mean dodge and fire orbs mean avoid
+- Phase 2 is a burn phase
+  - When you get frozen in ice, break yourself out and help others
 
 ### 💀 Heroic
 

@@ -33,7 +33,7 @@
 - **Molten Cleave**: Dodge
 - **Incinerating Roar**: Healer CD (💀 dodge red swirlies)
 - **Flamerift**: Orange circles drop your pools behind the raid; cluster them; kill adds; tanks shift us along
-- **Collapsing Army**: Stay grouped; everyone focus skull to make a gap; Nattz big heals
+- **Collapsing Army**: Group up; everyone focus skull to make a gap; Nattz big heals
 - **💀 Molten Spikes**: Watch your feet; dodge the spikes
 
 ## The Primal Council
@@ -116,7 +116,7 @@
 
 ## Broodkeeper Diurna
 
-- **Rapid incubation**: Two eggs have just been chosen, check them
+- **Rapid incubation**: Two eggs have just been chosen, break them
 - **Greatstaff of the Broodkeeper**: Egg team; healer CD if we need
 - **Wildfire**: Spread out; dodge
 - **Icy Shroud**: Dispels and AoE heals
@@ -135,7 +135,7 @@
 
 - **Empowered Greatstaff of the Broodkeeper**: Run away if you have a beam chasing you
 - **Wildfire**: Spread out; dodge
-- **Frozen Shroud**: Dispels; help people break free
+- **Frozen Shroud**: Dispels; help people break free; healer CD
 
 ## Raszageth the Storm-Eater
 
