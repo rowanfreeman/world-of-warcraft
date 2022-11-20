@@ -335,7 +335,8 @@
 ### 🤺 Raid
 
 - For positioning we'll have a **ranged group** (~25yd) and a melee group
-- If you get targeted for a **big yellow swirly**, it is a **split damage** so go to melee and **stack up** and don't run away unless you can immune it; call out if you are
+- If you get targeted for a **big yellow swirly**, it is a **split damage** so **stack up** and don't run away unless you can immune it; call out if you are
+  - We should get **two** of these **soaks** at a time; we want one in **ranged** and one in **melee**; don't overlap them
 - If you get a **yellow arrow** above you, you're about to **drop a spike**, so drop them in a line behind the **big yellow swirly**
 - At **full energy** the boss will cast his **signature ability** which will destroy **one quarter** of the room, so run to the **left**; **clockwise**
 
