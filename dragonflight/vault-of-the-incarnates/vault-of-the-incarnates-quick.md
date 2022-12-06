@@ -71,7 +71,7 @@
 
 - **Rock Blast**: Big yellow swirly stack on melee, help soak; then move out; arrow on your head, form a line behind big yellow swirly
 - **Awakened Earth**: Arrow on your head, form a line behind or in front of the big yellow swirly
-- **Concussive Slam**: Healer CD if we need
+- **Concussive Slam**: Healer CD
 - **Shattering Impact**: Melee dodge big circle; ranged dodge yellow swirlies
 - **Resonating Annihilation**: Run to the left; speed boosts; dodge swirlies
 
