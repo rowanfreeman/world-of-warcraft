@@ -139,4 +139,41 @@
 
 ## Raszageth the Storm-Eater
 
-- **Thing**: Here's the deal
+### Phase 1
+
+- **Static Charge**: Go to your marker; healer CD
+- **Hurricane Wing**: Knockback incoming; stack up; AMZ/Shout/Darkness
+- **Volatile Current**: Spread out; interrupt your add; stun, purge, mass dispel
+- **Lightning Breath**: Dodge
+- **(65%)**: Split up; red side and blue side
+
+### Intermission 1 (65%)
+
+- Follow your tank, group up
+- Kill adds
+- Watch for deep breath
+
+### Phase 2
+
+- **(Start)**: Stack up near the markers
+- **Volatile Current**: Spread out; interrupt your add; stun, purge, mass dispel
+- **Tempest Wing**: Run through the wave
+- **Fulminating Charge**: Blue circles out; speed boosts; everyone else get away from them
+- **Stormsurge**: Positive debuff on blue; negative debuff on red; healer CD get ready; AMZ/Shout/Darkness
+
+### Intermission 2
+
+- **(Start)**: Watch for deep breath
+- **Ball Lightning**: Dodge orbs
+- **Deep Breath**: Dodge
+- **Storm Break**: Adds; stuns, snares, Monk Ring, knockbacks; don't let them get to the big add
+- **(End) Storm Nova**: Knockback incoming, position yourself to get knocked back to the first platform
+
+### Phase 3
+
+- **(Start)**: Stack up on green marker; lust once we can
+- **Tempest Wing**: Run through the blue wave
+- **Fulminating Charge**: Blue circles out; speed boosts; everyone else get away from them then come back in
+- **Thunderous Blast**: Healer CD get ready; AMZ/Shout/Darkness shortly
+- **Lightning Breath**: Dodge
+- **💀 Magnetic Charge**: Healer CD

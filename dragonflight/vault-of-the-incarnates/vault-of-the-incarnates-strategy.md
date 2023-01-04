@@ -60,6 +60,9 @@
 - For **phase two**, we're going to be **surrounded by adds**
   - The adds **slowly march** towards the center of the room
   - Burn down the one with the **skull marker** to create a gap
+- The boss puts **big spikes** under people
+  - They hurt when spawned; dodge them
+  - These explode when the boss casts **Incinerating Roar**; dodge red swirlies
 
 ### ⚕ Healers
 
@@ -75,9 +78,7 @@
 
 ### 💀 Heroic
 
-- The boss puts **big spikes** under people
-  - They hurt when spawned; dodge them
-  - These explode when the boss casts **Incinerating Roar**; dodge red swirlies
+- Nothing
 
 ## The Primal Council
 
@@ -214,6 +215,7 @@
 
 ### 💀 Heroic
 
+- One of the **big adds** is now on one of the platforms; need to jump to it
 - **Conductive Mark** lasts 15 sec, up from 10
 - A bunch of **smaller adds** also spawn on the upper platform
   - They need to be **interrupted** and **AoE'd** down
@@ -572,16 +574,133 @@
 
 ### ✅ Preparation
 
+<img src="img/raszageth-overview.png" />
+
+- Split the raid into **two groups**: odds (**blue** team) and evens (**red** team)
+- **Markers** on the central platform: **blue** and **red** to indicate jump positions to get the the frost and fire platform
+  - **Yellow**, **orange** and **purple** markers to indicate drop positions of **static fields**
+  - **Green** marker for the raid stack position
+- Have the raid go to their **blue/red marker** and tell them which **tank** they have
+  - The **red and blue markers** will not be there for the fight
+  - Now move the **red and blue markers** to the final platform
+
+<img src="img/raszageth-p3.png" />
+
 ### 📜 Overview
 
-### 🚶‍♂️ Everyone
+- First of all I encourage **everyone** to talent into some **instant CC**
+  - If you can talent into an **interrupt**; grab it, including healers
+  - If you can't get an interrupt, a stun or a purge is also good; mass dispel is good
+  - Also Ring of Peace from Monks, knockbacks and pushes are also good
+- This fight is a typical final boss fight of **three phases** and **two intermissions**
+  - It is **mostly single-target** with infrequent burst AoE
+- In **phase one** we're on the **central platform** fighting **Raszageth** and trying not to get pushed off the ledge
+- Then there's the **first intermission** where we split up into two groups and fight adds on different platforms
+- We return to the central platform for phase two where we deal with the boss again 
+- This is a long fight, so **lust** at the start and at the end
 
-### 🛡 Tanks
+### Phase 1
 
-### 🤺 Raid
+#### 🛡 Tanks
 
-### ⚕ Healers
+- Tank the boss in the **center** and **face her away**
+- Your **tank mechanic** is physical damage, nature damage, a DoT and a damage taken debuff
+  - It lasts for **33 seconds** and **doesn't stack**
+  - Use a CD for it and **taunt swap** after each one
 
-### 👌 Summary
+#### 🤺 Raid
+
+- Stack up on **green marker**
+- If you get marked with a **big blue circle**, you need to move away from the raid and drop a pool
+  - When you get this debuff, you will have a **marker** on your head and you need to go to your **assigned marker** to drop the pool
+  - The markers are **yellow star**, **orange circle** and **purple diamond**
+- The boss is going to do a knockback to throw you off the platform
+  - However, if you're standing in one of the **big pools of static field**, you don't get knocked back
+- We will all get a **small blue circle debuff**; spread out
+  - When this debuff ends, you'll spawn an **add**; you need to **interrupt**, **stun** or **purge** your own add to kill it
+- There are going to be **small blue swirlies** everywhere all day; just dodge them
+- The boss will face the raid for a **breath**, just side-step it
+- At **65%** the boss wil take off into the air; you need to go to your team's side; **blue** or **red**, where the **markers** were and wait to get **knocked over** to your platform
+
+#### ⚕ Healers
+
+- Healer CDs for when people get marked with the **big blue circles**
+  - Zib first, then Nattz
+
+#### 👌 Summary
+
+- **Big blue circle** means drop your **pool** on your **marker**; either **yellow star**, **orange circle** or **purple diamond**
+- **Small blue circles** mean spread out and **CC the add** you spawn
+- When she does the knockback, make sure you get hit into a **pool of static field**
+- At the end of the phase, go with your team and get **knocked over** to your platform
+
+### Intermission 1
+
+#### 🚶‍♂️ Everyone
+
+- For intermission one, you're over on one of the platforms with your team; group up and move as a unit
+- There are **three big adds** channelling on each platform; kill one at a time
+- **Extra small adds** will also spawn, AoE them down and use **interrupts and stuns**
+- The boss will **deep breath** sections of the platform; you need to watch her positioning and move to avoid it
+- Once all adds are down on your platform, use the **teleporter**
+
+### Phase 2
+
+#### 🚶‍♂️ Everyone
+
+- We will be on the another platform; note the **blue and red markers**
+- We've got **big blue circles** again but this time just **run to anywhere**; you need to **get away from** the raid with the **big blue circle**
+  - Everyone else needs to avoid getting hit as the **big bule circles** are now **contagious** and the people that have it are snared
+- The boss will send out a **blue wave** that does some knockback; just run through it
+- We've still got the **little blue circles** mechanic so **spread** and kill your add with **CC**
+- For her signature ability, the boss will **shield herself** and we need to break through it
+  - When this happens, we'll all get a debuff; either **positive charge** or **negative charge**
+  - You need to stack with people of the **same charge**; do not be near people with the opposite charge
+  - **Positive charge** stack on **blue marker**, **negative charge** stack on **red marker**
+
+#### ⚕ Healers
+
+- When we're stacked with our red or blue debuffs, there will be ramping damage, so healer CD when it starts to hurt
+
+### Intermission 2
+
+#### 🚶‍♂️ Everyone
+
+- For **intermission two**, we're still on the same **platform** as **phase two** and we'll be fighting a **miniboss**
+- **Tanks** there is nothing special you need to do outside of tanking the **miniboss**
+- Everyone dodge swirlies as always, and **dodge orbs** that it throws out; similar to **Azureblade** in **The Azure Vault**
+- The **miniboss** will **teleport** across the platform and when it does this a bunch of small adds will spawn
+- The small adds don't need to be tanked, and instead they will all march towards the miniboss
+  - If they reach the miniboss, they heal and buff it
+  - AoE them down and use stuns, snares, knockbacks, and Monk Ring
+- Once the miniboss is dead, you need to position yourself to be knocked back to the original platform
+
+### Phase 3
+
+#### 🚶‍♂️ Everyone
+
+- We're back on the first platform; this one
+- We're going to be **running out of floorspace** as **lightning** creeps from the **edges** of the platform towards the **center**
+- A lot of the same mechanis
+  - **Big blue circle** means get out, and other people avoid them
+  - Run through the **blue wave**
+  - Dodge **lightning breath**
+
+#### 🛡 Tanks
+
+- Your tank mechanic is **Thunderous Blast**
+  - It's a **laser beam** of damage over **two seconds**; face here away and don't both get hit by it and swap after each one
+  - It also **explodes** and **hurts the raid** and the damage we take is based on the damage you took
+  - Use CDs, externals etc
+  - Please say "big heals" when you're being hit so that healers know what's coming
 
 ### 💀 Heroic
+
+- The **static fields** hurt a lot a lot more
+  - WoWHead says not to use them; but I suspect we just need **big heals**
+- The **Ruiner adds** in intermission one **debuff** people with a circle; just spread slighty and heal it
+- In **phase two**, coming into contact with the **opposite charge** (positive/negative) **explodes**, hurting everyone
+- There is another big add (**Colossal Stormfiend**) in **intermission two** and they need to die at the same time, otherwise they buff each other
+- In **phase three**, someone will get a debuff which explodes after 8 seconds
+  - Run away; the damage is falloff
+  - Everyone will get sucked in
