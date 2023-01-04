@@ -670,16 +670,16 @@
 - **Tanks** there is nothing special you need to do outside of tanking the **miniboss**
 - Everyone dodge swirlies as always, and **dodge orbs** that it throws out; similar to **Azureblade** in **The Azure Vault**
 - The **miniboss** will **teleport** across the platform and when it does this a bunch of small adds will spawn
-- The small adds don't need to be tanked, and instead they will all march towards the miniboss
-  - If they reach the miniboss, they heal and buff it
-  - AoE them down and use stuns, snares, knockbacks, and Monk Ring
-- Once the miniboss is dead, you need to position yourself to be knocked back to the original platform
+- The **small adds** don't need to be tanked, and instead they will all **march** towards the **miniboss**
+  - If they reach the **miniboss**, they **heal** and buff it
+  - **AoE** them down and use stuns, snares, knockbacks, and Monk Ring
+- Once the **miniboss** is dead, you need to position yourself to be **knocked back** to the **original platform**
 
 ### Phase 3
 
 #### 🚶‍♂️ Everyone
 
-- We're back on the first platform; this one
+- We're back on the **first platform**; this one
 - We're going to be **running out of floorspace** as **lightning** creeps from the **edges** of the platform towards the **center**
 - A lot of the same mechanis
   - **Big blue circle** means get out, and other people avoid them
@@ -702,5 +702,5 @@
 - In **phase two**, coming into contact with the **opposite charge** (positive/negative) **explodes**, hurting everyone
 - There is another big add (**Colossal Stormfiend**) in **intermission two** and they need to die at the same time, otherwise they buff each other
 - In **phase three**, someone will get a debuff which explodes after 8 seconds
-  - Run away; the damage is falloff
+  - Run away; the damage is **falloff**
   - Everyone will get sucked in
