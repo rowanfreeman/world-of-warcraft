@@ -74,6 +74,7 @@
 - In **phase 1**, **drop pools**, dodge breath and kill adds
 - In **phase 2**, split up: odds blue square, evens red X
   - Help soak the **individual soaks** and then touch the **tree roots**; avoid running through the boss
+- **Lust** one all **tree roots** are dead
 
 ### 💀 Heroic
 
@@ -149,6 +150,7 @@
 - **Green team** soak the **first torment** on **green triangle**
 - **Purple team** soak the **second torment** on **purple diamond**
 - **Yellow team** soak the **third torment** on **yellow triangle**
+- **Lust** on pull
 
 ### 💀 Heroic
 
@@ -162,33 +164,47 @@
 
 ### ✅ Preparation
 
-<img src="" />
+<img src="img/volcoross.png" />
 
-- Prep
+- Get the raid ready for two groups: **odds**, **evens**
+  - Odds left, evens right
+- Maybe have each group stand together on star/circle or at least left side/right side
 
 ### 📜 Overview
 
-- Overview
+- Classic fight with the stationary boss in the middle
+- Single target, single-phase
+- For this fight we will be splitting up into two groups: **odds** and **evens** and making our way around the platform
+- **Lust** on pull
 
 ### 🛡 Tanks
 
-- Tanks
+- Boss' melee stacks a **DoT** on you and it's also a **damage taken debuff** for his **tankbuster** which is called **Cataclysm Jaws**
+  - So take a bunch of **stacks**, and then right before the **tankbuster** hits, **taunt swap**
+- Other than that, try to be in range of the boss so he doesn't AoE the raid and stick with your group
 
 ### 🤺 Raid
 
-- Raid
-
-### ⚕ Healers
-
-- Healers
+- We start grouped up together around **yellow star** and **orange circle**
+- If you get a circle on you, it's a **DoT** so just **stay away from others**
+- Occasionally the boss' **tail** will cast a shadow over us and then **slap down**; so dodge that
+- The big mechanic here is that the boss will create **two big soaks**
+  - The first round of two big soaks is one on **yellow star** and one on **orange circle**
+  - So **odds** soak **left**, **evens** soak **right**
+  - The next two soaks are **purple diamond** and **green triangle**
+    - Have a look at where those are and you can see why we need to split up
+  - The other markers around the room is other soaks
 
 ### 👌 Summary
 
-- Summary
+- **Soak** with your team and then **odds head left** (clockwise) and **evens go right** (counter-clockwise)
+- Watch out for the **shadow** of the **tail** and dodge it
+- Spread out if you have a circle on you
+- **Lust** on pull
 
 ### 💀 Heroic
 
-- Nothing
+- When the tail slaps down, a few fire rissoles emanate out left and right; just dodge them
 
 ## Council of Dreams
 

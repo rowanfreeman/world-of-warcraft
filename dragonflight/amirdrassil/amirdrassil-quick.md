@@ -63,11 +63,10 @@
 
 ### Phase 1
 
-- **Ability**: Desc
-
-### Phase 2
-
-- **Ability**: Desc
+- **Serpent's Fury**: People with orange circles spread out and get away
+- **Scorchtail Crash**: Watch out for the shadow; dodge it
+- **Volcanic Disgorge**: Dodge swirlies
+- **Flood of the Firelands**: Split up; soak with your groups; odds left, evens right
 
 ## Council of Dreams
 
