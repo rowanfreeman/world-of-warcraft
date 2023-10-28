@@ -46,7 +46,7 @@
   - I think just take the whole thing and swap when it's done
 - The raid is going to be **dropping big pools** and we might need to **move**; up to you
 - Always grab all **adds** that are up - don't let them attack the raid - and tank the adds on the **boss** for cleave
-- The boss will occasionally face the raid with a **frontal breath** but that's on us to dodge it
+- The boss will occasionally face the raid with a **frontal breath** but that's on us to dodge it; you're not doing anything wrong
 
 ### 🤺 Raid
 
@@ -90,8 +90,8 @@
 
 <img src="img/igira.png" />
 
-- Make sure groups are ready: **odds and evens**
-- Place markers: **blue, green yellow, purple**
+- Split raid into three groups, excluding tanks: **yellow**, **green**, **purple**
+- Place markers: **blue, green, yellow, purple**
 
 ### 📜 Overview
 
@@ -101,39 +101,54 @@
   - When the boss reaches **100 energy** she will offer us **three torments** and we get to pick one
   - All it means is that when we pick a **torment**, she gains an **ability** that we have to deal with
   - There will be one torment on **green triangle**, one on **purple diamond** and one on **yellow star**
-  - The **torments** are just **big red circles** on the ground that we need to stand in to **soak**; the **circle** shrinks when we **soak** and once it's **fully soaked**, she gains the ability
+  - The **torments** are just **big red circles** on the ground that we need to stand in to **soak**
+    - The **circle** shrinks when we **soak** and once it's **fully soaked**, she gains the ability
   - So, we fight the boss, she gets to 100 energy, we soak a torment, then we return to normal while we deal with that new ability, then a few minutes later she'll get to 100 energy again and we pick the next torment and deal with that and so on
   - We're going to have **group assignments** for soaking the **torments**, so check your group
-  - The strategy is: **odds** soak the **first torment** on **green**; then later when the next one comes, **evens** soak on **purple diamond**
+    - Can I get **group one** go to **green triangle**, **group two** go to **purple diamond** and **group three** go to **yellow star**
   - **Lust** at the **start** unless we run into trouble at the end of the fight
 
 ### 🛡 Tanks
 
 - Tank her where she is is fine
-- Her **auto attacks** hit the next closest person just like **Sludgefist** from **Castle Nathria** so you need to **hold hands** otherwise you take double-hits
-  - That also means probably a good idea to tank her **not near melee**
-- Her **auto attacks** also apply a **stacking DoT**; my guess would be swap at around **10 - 12** but you'll have to get a feel for it
+- Her **auto attacks** hit the next closest person just like **Sludgefist** from **Castle Nathria** so you need to **hold hands** otherwise you take **double-hits**
+  - This also means be careful not to kill **melee**; yell at them if they get too close
+- Her **auto attacks** also apply a **stacking DoT**; my guess would be swap at around **10 - 12** stacks but you'll have to get a feel for it
 
 ### 🤺 Raid
 
+- Unless you're dealing with something, our general stack spot is **blue square**
 - When you get a **big red circle** on you, the boss is going to throw a **spear** at you
-  - It will hurt and you will **tethered** to the spear and you need to kill it to break free
-  - There is also a **pool of bad** underneath you which means **melee** might not be a good choice to help so maybe just **ranged help kill spears**
-  - There are **two ways** to deal with this
-  - One way is to **spread out** but another way is to **stack spear players** up to cheese it
-  - Therefore **big red circle** people **stack up together**; everyone else **dodge**, use **personals** to stay alive and **ranged help kill the spears**
+  - It will hurt and you will **tethered** to the spear and you need to **kill it** to break free
+  - There is also a **pool of bad** underneath the spear; so melee you can help kill spears but just don't die to the pools
+  - Let's **cluster the spears** around the boss and burn them down quickly
+- The boss will occasionally face the raid and throw **swords** out, just **dodge them**
+  - Do you remember the **Amalgamation boss** in Aberrus? The one with a the **purple void boss** and the **fire boss**?
+  - It's just like the fire boss' **tornados**
+- Regarding **torments** there are **three possible abilities** that the boss will get
+  - When **green team** soaks the torment on **green triangle**, she will gain a **leap ability**
+    - It means that occasionally she will **leap** somewhere and we just **dodge it**
+- When **purple team** soaks the torment on **purple diamond**, it means we will occasionally get a heal absorb on us
+  - It's up to the **healers** to heal through this but maybe throw a **personal heal** on yourself if you can spare it
+- When **yellow team** soaks the torment on **yellow diamond**, it means a **split-damage soak** on the **tanks**
+  - In order to deal with this group soak, we'll use our groups
+  - **Green** team first, then **purple** team second, then **yellow** team third
+
 
 ### ⚕ Healers
 
 - This fight ramps up a lot towards the end
-- **Spears** are going to hurt if we're doing the **stack strategy**
-- It hurts when she **leaps**
+- It hurts when she casts **Harvest of Screams**
+- It hurts when she **leaps** which is called **Smashing Viscera**
+- When she casts something called **Heart Stopper** a bunch of people will get an **absorb shield** on them and you need to heal through it
+  - A **healer CD** might be worth it
 
 ### 👌 Summary
 
-- **Spears**: group up if you're targeted for spears; everyone else get out of the way
-- **Odds** soak the **first torment** on **green triangle** while **evens** just chill
-- **Evens** soak the **second torment** on **purple diamond** while **odds** chill
+- **Spears**: cluster up near the boss if you're targeted for spears
+- **Green team** soak the **first torment** on **green triangle**
+- **Purple team** soak the **second torment** on **purple diamond**
+- **Yellow team** soak the **third torment** on **yellow triangle**
 
 ### 💀 Heroic
 
@@ -141,6 +156,7 @@
 - The **leap torment** now releases **fire swirlies** everywhere to dodge
 - The **absorb shield torment** now releases **orbs** to dodge from the player when the shield is removed
   - _During the beta, people pixel-stacked to deal with this, because the orbs have a grace period_
+  - Also the player explodes in a 7yd radius so you have to spread out a bit
 
 ## Volcoross
 

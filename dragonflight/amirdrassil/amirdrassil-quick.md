@@ -49,7 +49,15 @@
 
 - **Blistering Spear**: Drop your spears near the boss; don't kill each other
 - **Twisting Blade**: Dodge
-- **Marked for Torment**: todo
+- **Harvest of Screams**: Big heals
+- **Marked for Torment (first)**: Green team soak on green marker
+- **Marked for Torment (second)**: Purple team soak on purple marker
+- **Marked for Torment (third)**: Yellow team soak on yellow marker
+- **Smashing Viscera**: She's going to leap around a couple of times; just dodge bad stuff
+- **Heart Stopper**: Spread out a bit; healers heal through the absorb shields
+- **Umbral Destruction (first)**: Green team help soak on the tank
+- **Umbral Destruction (second)**: Purple team help soak on the tank
+- **Umbral Destruction (third)**: Yellow team help soak on the tank
 
 ## Volcoross
 
