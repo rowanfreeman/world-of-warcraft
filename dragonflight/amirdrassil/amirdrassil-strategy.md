@@ -193,7 +193,7 @@
   - So **odds** soak **left**, **evens** soak **right**
   - The next two soaks are **purple diamond** and **green triangle**
     - Have a look at where those are and you can see why we need to split up
-  - The other markers around the room is other soaks
+  - The other markers around the room are other soaks
 
 ### 👌 Summary
 
