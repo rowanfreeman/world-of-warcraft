@@ -45,8 +45,6 @@
 
 ## Igira the Cruel
 
-### Phase 1
-
 - **Blistering Spear**: Drop your spears near the boss; don't kill each other
 - **Twisting Blade**: Dodge
 - **Harvest of Screams**: Big heals
@@ -61,8 +59,6 @@
 
 ## Volcoross
 
-### Phase 1
-
 - **Serpent's Fury**: People with orange circles spread out and get away
 - **Scorchtail Crash**: Watch out for the shadow; dodge it
 - **Volcanic Disgorge**: Dodge swirlies
@@ -70,13 +66,12 @@
 
 ## Council of Dreams
 
-### Phase 1
-
-- **Poisonous Javelin**: Poison cleanses
+- **Poisonous Javelin**: Spread out; poison cleanses
 - **Noxious Blossom**: Dodge green swirlies
-- **Polymorph Bomb**: People that are ducks, run through poison pools; then use the Preen ability to dispel yourself
-- **Song of the Dragon**: Everyone stand in poison circles to clear your absorb shield
-- **Constricting Thicket/Barreling Charge**: Aim it at the Aerwynn; odds (first)/evens help soak the charge
+- **Polymorph Bomb**: People that are ducks, run through poison flowers; then use the Preen ability to dispel yourself
+- **Emerald Winds**: Big heals
+- **Song of the Dragon**: Everyone stand in poison flowers to clear your absorb shield
+- **Constricting Thicket/Barreling Charge**: Aim it at the Aerwynn; odds/evens help soak the charge; healer CD
 - **Blind Rage**: I need a duck to preen themselves on Urctos
 
 ## Larodar, Keeper of the Flame
