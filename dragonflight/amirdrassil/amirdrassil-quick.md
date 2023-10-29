@@ -41,7 +41,7 @@
 
 - **100 Energy**: Go to your marker; blue team, red team, get ready for soaks
 - **Searing Bramble**: Soaks; then set tree roots on fire
-- **Uprooted Agony**: Lust it
+- **Uprooted Agony**: Lust it, stack up for healing
 
 ## Igira the Cruel
 
@@ -72,11 +72,12 @@
 
 ### Phase 1
 
-- **Ability**: Desc
-
-### Phase 2
-
-- **Ability**: Desc
+- **Poisonous Javelin**: Poison cleanses
+- **Noxious Blossom**: Dodge green swirlies
+- **Polymorph Bomb**: People that are ducks, run through poison pools; then use the Preen ability to dispel yourself
+- **Song of the Dragon**: Everyone stand in poison circles to clear your absorb shield
+- **Constricting Thicket/Barreling Charge**: Aim it at the Aerwynn; odds (first)/evens help soak the charge
+- **Blind Rage**: I need a duck to preen themselves on Urctos
 
 ## Larodar, Keeper of the Flame
 

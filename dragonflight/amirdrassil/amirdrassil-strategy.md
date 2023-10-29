@@ -210,33 +210,73 @@
 
 ### ✅ Preparation
 
-<img src="" />
-
-- Prep
+- Get the raid into two groups: odds and evens
 
 ### 📜 Overview
 
-- Overview
+- Check your groups - odds/evens
+- This is a single-phase **cleave fight** - you will usually have **two targets**
+- First of all, **poison cleanse** can help in this fight, if you can afford to pick up a poison cleanse - especially shaman with their **totems**
+- We have **three bosses** up at all times - they do not share a **health pool** and all three **must die at the same time** or they res each other
+- The first mechanic for this fight is **Polymorph** which comes from **Pip** where a bunch of people will be turned into **ducks**
+  - When you are a **duck** you will get **two abilities** on your bar
+  - The **first ability** is a speed boost - use that freely
+  - The **second ability** is **Preen** which removes polymorph
+  - You can only cast **Preen** after you walk through some **poison flowers** - there are going to be little circles on the ground with poisonous flowers that you usually want to avoid
+  - But when you're a **duck**, you're immune to **poison damage**, so walk through some **poison flowers** and then **Preen** yourself
+  - Do be aware that when your **polymorph** is removed will polymorph anyone close to you so please do it **away from others**
+  - If there are **no flowers** to eat when you're a **duck**, you'll just have to sit out and wait until the **timer expires**
+- Each boss has an **ulti ability** that is dangerous and we need to deal with
+  - **The bear's ulti** is a **Blind Rage** which is a chanelled AoE
+  - In order to stop this, I will need one duck to volunteer to **Preen** themselves on **Urctos**
+  - This is because when you get rid of your polymorph on **Urctos**, it turns him into a **duck** which stops the channel
+  - So listen out for when we need a **duck volunteer** to **Preen** on the boss, keeping in mind that you need to eat some **poison flowers** before you can **Preen**
+- **Pip's ulti** is called **Song of the Dragon**, it puts a **poison damage absorb shield** on everyone and you need to remove it
+  - If you don't remove it in time you get **stunned for 15 seconds**
+  - To remove it you need to take **poison damage** and the easiest way to do that is to stand in some **poison flowers**
+- **Aerwynn's ulti** is a channel that will **drag** all of us towards her
+  - That's bad because it'll drag us into **poison flowers**
+  - When you're being **dragged** listen out for your **group** being called - **odds or evens** - to help soak a charge from the **Urctos**
+  - Basically **Urctos** is going to run at **Aerwynn** and I need the **soaking group** to deliberately get hit by the charge
 
 ### 🛡 Tanks
 
-- Tanks
+- You are tanking **Urctos** the bear
+- He has a standard physical damage **tankbuster** with a damage taken debuff
+  - On heroic the tankbuster is a frontal so maybe just practice for that even on normal
+- The other two bosses **cannot be moved** so your job is to take **Urctos** to either **Pip or Aerwynn**
+  - It's up to you to which ranged boss to take the bear to, just keep health pools the same for all bosses
+- Another job of yours is dealing with Urctos' **Barreling Charge**
+  - When he does this you'll see a **red arrow** on the ground where he is aiming at and you need to aim and hit **Aerwynn**
+  - The tank that is aiming it **should** get hit by the **charge** which helps **soak** it and the other tank should **not soak it**
+- **Urctos** will sometimes cast **Blinding Rage** where he'll stand still and slap the ground for 20sec
+  - We need to **interrupt** this and we do that by having one of our **ducks** dispel themselves on top of **Urctos**
+  - So when **Blinding Rage** is coming up, i.e. near 100 energy, ask for a duck to come over and **Preen** themselves on **Urctos**
+  - You need to dodge the duck because if you're within **7yd** of a duck dispelling themselves, you will be polymorphed into a duck
+- I think Pip's ulti - **Song of the Dragon** - includes you and so you will both need to stand in **poison flowers** to get rid of the absorb shield (20sec timer)
 
 ### 🤺 Raid
 
-- Raid
-
-### ⚕ Healers
-
-- Healers
+- Generally for this fight we are going to be **spread out**
+- Please prioritise **Pip or Aerwynn** and just cleave on the bear
+- If you get targeted with a **green circle** on you, it's called **Javelin**, just move away from others and then use **poison cleanses**
+- **Lust** on pull
 
 ### 👌 Summary
 
-- Summary
+- Remember your groups - **odds or evens** - and help soak the **charge** from the **Urctos** - don't soak if it's not your turn
+- Try to prioritise damage on **Aerwynn** and **Pip** and just cleave **Urctos**
+- When you turn into a **duck**, walk over some **poison flowers**, then use the **Preen** ability to remove the polymorph
+  - Also when you are a **duck** listen out incase I need someone to **Preen** on **Urctos**
+- When **Pip** does his ultimate, **Song of the Dragon**, stand in some **poison flowers** to remove your absorb shield
 
 ### 💀 Heroic
 
-- Nothing
+- When **duck polymorph** ends, you polymorph anyone within 7yd
+  - _(On normal it just disorients you for a few sec)_
+- **Barreling Charge** now leaves behind a 30s **500% damage taken debuff**, meaning you can't soak it again
+  - We already deal with this using **groups**
+- The tankbuster from Urctos, **Agonizing Claws**, is now a frontal cone
 
 ## Larodar, Keeper of the Flame
 
