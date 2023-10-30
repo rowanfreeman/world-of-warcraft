@@ -18,8 +18,8 @@
 - [Gnarlroot](#gnarlroot)
 - [Igira the Cruel](#igira-the-cruel)
 - [Volcoross](#volcoross)
-- [Council of Dreams](#council-of-dreams)
 - [Larodar, Keeper of the Flame](#larodar-keeper-of-the-flame)
+- [Council of Dreams](#council-of-dreams)
 - [Nymue, Weaver of the Cycle](#nymue-weaver-of-the-cycle)
 - [Smolderon](#smolderon)
 - [Tindral Sageswift, Seer of the Flame](#tindral-sageswift-seer-of-the-flame)
@@ -64,16 +64,6 @@
 - **Volcanic Disgorge**: Dodge swirlies
 - **Flood of the Firelands**: Split up; soak with your groups; odds left, evens right
 
-## Council of Dreams
-
-- **Poisonous Javelin**: Spread out; poison cleanses
-- **Noxious Blossom**: Dodge green swirlies
-- **Polymorph Bomb**: People that are ducks, run through poison flowers; then use the Preen ability to dispel yourself
-- **Emerald Winds**: Big heals
-- **Blind Rage**: I need a duck to preen themselves on Urctos
-- **Constricting Thicket/Barreling Charge**: Aim it at the Aerwynn; odds/evens help soak the charge; healer CD
-- **Song of the Dragon**: Everyone stand in poison flowers to clear your absorb shield
-
 ## Larodar, Keeper of the Flame
 
 ### Phase 1
@@ -94,6 +84,16 @@
 - **Flash Fire**: Healers save the people with the heal absorb shield
 - **Fire Whirl**: Watch out for tornados
 - **Ashen Call**: Kill adds; use snares and knockbacks; melee be careful the treants hit you if you get close
+
+## Council of Dreams
+
+- **Poisonous Javelin**: Spread out; poison cleanses
+- **Noxious Blossom**: Dodge green swirlies
+- **Polymorph Bomb**: People that are ducks, run through poison flowers; then use the Preen ability to dispel yourself
+- **Emerald Winds**: Big heals
+- **Blind Rage**: I need a duck to preen themselves on Urctos
+- **Constricting Thicket/Barreling Charge**: Aim it at the Aerwynn; odds/evens help soak the charge; healer CD
+- **Song of the Dragon**: Everyone stand in poison flowers to clear your absorb shield
 
 ## Nymue, Weaver of the Cycle
 
