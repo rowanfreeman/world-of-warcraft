@@ -347,10 +347,11 @@
 
 - A **race** to the end
 - There is no more **seed** or **cleaning** so we just have to manage with limited floorspace
+- There is no more **bramble** to heal and hide in
 - There is an **individual soak** mechanic so please help soak
-- The tree adds now spawn far away from the boss and there will be lots of them and they will march slowly towards the boss
-  - Kill the adds and use snares, stuns, knockbacks whatever works
-  - **Melee**, these adds will be pretty hard for you to reach and they **detonate** when killed so **help out** if you can with any **ranged attacks** and don't be near them once they are **low HP**
+- The **tree adds** are different; they now spawn **far away** from the boss and there will be **lots** of them and they will **march** slowly towards the boss
+  - Kill the **adds** and use snares, stuns, knockbacks whatever works
+  - **Melee**, these adds will be pretty hard for you to reach and they **detonate** when killed so **help out** if you can, especially with **ranged attacks** if you have them, and don't be near tree adds once they are **low HP**
 
 ### 🛡 Tanks
 
