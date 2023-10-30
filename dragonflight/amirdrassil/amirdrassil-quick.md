@@ -70,9 +70,9 @@
 - **Noxious Blossom**: Dodge green swirlies
 - **Polymorph Bomb**: People that are ducks, run through poison flowers; then use the Preen ability to dispel yourself
 - **Emerald Winds**: Big heals
-- **Song of the Dragon**: Everyone stand in poison flowers to clear your absorb shield
-- **Constricting Thicket/Barreling Charge**: Aim it at the Aerwynn; odds/evens help soak the charge; healer CD
 - **Blind Rage**: I need a duck to preen themselves on Urctos
+- **Constricting Thicket/Barreling Charge**: Aim it at the Aerwynn; odds/evens help soak the charge; healer CD
+- **Song of the Dragon**: Everyone stand in poison flowers to clear your absorb shield
 
 ## Larodar, Keeper of the Flame
 

@@ -249,7 +249,7 @@
 - Another job of yours is dealing with Urctos' **Barreling Charge**
   - When he does this you'll see a **red arrow** on the ground where he is aiming at and you need to aim and hit **Aerwynn**
   - The tank that is aiming it **should** get hit by the **charge** which helps **soak** it and the other tank should **not soak it**
-- **Urctos** will sometimes cast **Blinding Rage** where he'll stand still and slap the ground for 20sec
+- **Urctos'** ulti is **Blinding Rage** where he'll stand still and slap the ground for 20sec
   - We need to **interrupt** this and we do that by having one of our **ducks** dispel themselves on top of **Urctos**
   - So when **Blinding Rage** is coming up, i.e. near 100 energy, ask for a duck to come over and **Preen** themselves on **Urctos**
   - You need to dodge the duck because if you're within **7yd** of a duck dispelling themselves, you will be polymorphed into a duck
