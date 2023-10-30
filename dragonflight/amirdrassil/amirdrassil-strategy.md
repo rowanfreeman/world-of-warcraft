@@ -300,6 +300,8 @@
 - And once you have **cleaned once**, you shouldn't do it **again**
 - It's up to you all to **coordinate cleaning**; let's start with (player X) first and (player Y) second
   - Announce when you're the **next cleaner** and announce when you're **done cleaning** so that another person can volunteer to get next; like what we do for interrupt rotations
+- If the seed is **0%** and not filling up, that's not your fault and there is nothing you can do
+  - The seed is actually filled up by friendly NPCs and it's up to the healers to keep them alive and even then the friendly NPCs will eventually die
 - Cleaning isn't a thing in **phase two**; this task is **phase one only**
 
 ### 📜 Overview
