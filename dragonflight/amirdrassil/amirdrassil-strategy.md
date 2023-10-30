@@ -284,31 +284,118 @@
 
 <img src="" />
 
-- Prep
+- Nominate a bunch of DPS as **cleaners**
+- Take them to a separate **Discord channel**
+- For this fight the floor is going to be convered in **fire patches** and so we could run out of room
+- In the middle of the room there is a **seed**
+- The seed has a **progression bar** above it between **0% to 100%**
+- As a cleaner, your job is to click the **seed** which will equip you with a **hose**
+- Then you can walk up to **fire patches** to clean them and make them go away
+- When you click the seed, you don't have to do anything extra, your character will just start hosing and you're ready to go
+- So you click the **seed**, use **speed boosts** and clear as much **floor** as you can
+- Once you start hosing, the seed's **progress metre** will go down - i.e. you'll empty the **fuel tank**
+- If the **fuel tank** is low, like less than **30%** it's probably not worth using because you'll just run out too quickly
+  - So maybe wait until the progress bar is a bit higher - anything over 30% is probably good
+- I think we'll probably want **one person cleaning** at a time - though that is not a hard rule - just a **suggestion**
+- And once you have **cleaned once**, you shouldn't do it **again**
+- It's up to you all to **coordinate cleaning**; let's start with (player X) first and (player Y) second
+  - Announce when you're the **next cleaner** and announce when you're **done cleaning** so that another person can volunteer to get next; like what we do for interrupt rotations
+- Cleaning isn't a thing in **phase two**; this task is **phase one only**
 
 ### 📜 Overview
 
-- Overview
+- This is a **two phase fight**
+- It is mostly **single target** but there are occasional adds so bring some **cleave**
+- **Phase one** is **killing adds** and occasionally hiding in a **bush** to avoid **massive AoE damage** while also trying to clean the room of pools of fire
+- **Phase two** starts at **40% hp** and is a **burn phase** that ramps up in intensity with a soft enrage
+- **Lust** phase two
+
+### 🤺 Everyone
+
+#### Phase 1
+
+- You'll notice that there is a **seed** in the middle of the room and there are **fire patches** everywhere
+- The fire patches will grow all over the place in this fight and we're going to try to stay grouped near the boss, close to the middle of the room, not too far from the seed
+- The boss is going to spawn a few **tree adds**
+  - DPS need to **kill the adds**
+  - Once they are dead, those trees become **healable**
+  - So then **healers** heal them up and they become **friendly NPCs**
+  - Once they are full health, the **tree NPCs** will start to heal the **seed**, which increases its **progress bar**; it will start filling up from 0% up to 100% kind of like a fuel tank
+  - Then you can click on the **seed** to clear **fire patches** on the ground
+  - We already have a group of DPS assigned as **cleaners** to do this job; but just be aware that that is how it works
+  - So we **kill the adds**; then **heal them**; then the **cleaners** will rotate cleaning duty to clear **fire patches**
+- Another mechanic is dodging **little fire swirles** on the ground
+  - That's easy enough, but when this happens there will be a few **fire orbs** that will float towards the boss
+  - Please **don't let them get to the boss**, you must **soak** these by running into them, you get a DoT and a **20% crit buff** when you soak these
+- Also in phase one is some **roots** will **slowly chase** one person
+  - Everyone **kill the roots** and then, just like the trees, **healers** heal it up
+  - Once it's fully healed it'll turn into a **friendly bush**
+  - We use this bush for the boss' big scary mechanic which is called **Inferno**
+  - Basically the boss will channel this **lethal AoE** on us; **one tick** will kill you
+  - But if you're near the **bush**, it's **90% damage reduction**
+
+#### Intermission (40%)
+
+- The **intermission** is short; it's just a **chanelled AoE** between phases one and two
+  - It hurts a ton and you **explode constantly** on anyone nearby
+  - So just **spread out** and stay alive until it's over
+  - Use **self-heals** if you can
+
+#### Phase 2
+
+- A **race** to the end
+- There is no more **seed** or **cleaning** so we just have to manage with limited floorspace
+- There is an **individual soak** mechanic so please help soak
+- The tree adds now spawn far away from the boss and there will be lots of them and they will march slowly towards the boss
+  - Kill the adds and use snares, stuns, knockbacks whatever works
+  - **Melee**, these adds will be pretty hard for you to reach and they **detonate** when killed so **help out** if you can with any **ranged attacks** and don't be near them once they are **low HP**
 
 ### 🛡 Tanks
 
-- Tanks
-
-### 🤺 Raid
-
-- Raid
+- The boss constantly drops **fire patches** when moving so you want to avoid moving the boss too much
+- In phase one your job is the **boss** and the **adds**
+  - The tank mechanic is a **charge** from the boss
+  - The damage **you take** is reduced based on **distance** so just **run away** from the boss
+  - And the damage that we take is reduced based on **distance** also, so have the boss charge **away from the raid**
+  - Keep in mind that the boss will be **dropping pools** when he moves so having him run over **existing pools** is a good thing
+  - When you get hit by the charge you'll have a **damage taken debuff** so taunt swap
+  - Remind melee to get out of the way so they don't get hit by the **charge**
+  - Pick up the **tree adds** in phase one
+- In phase two the tank mechanic is a **frontal cone**, not a charge, so **face him away**
+  - The debuff from this is **100% mortal strike**
+  - But you will have a **circle** on you which you can use to **leech health** from other people
+  - So once you've got it do a **taunt swap** and then run around to **top up** and try not to kill people
 
 ### ⚕ Healers
 
-- Healers
+- In phase one you need to heal the **tree NPCs** and the **bramble**
+- The intermission, which is the transition from phase one to phase two, hurts a ton so big CDs
+- In phase two there is an **absorb shield debuff** going out on people called **Flash Fire** that you need to heal through
+  - If we don't heal through it within **8 seconds** they detonate
 
 ### 👌 Summary
 
-- Summary
+- For phase one
+  - **Kill all adds** and then **heal** them up
+  - We clean up the floor with our **cleaners**
+  - Collect the **red fire orbs** before they get to the boss
+  - We stack up in the **green circle** for **Inferno**
+- For the **intermission** we get away from the boss and stack up for big heals
+- For phase two
+  - We **lust** it
+  - We do **individual soaks**
+  - We **kill adds**
 
 ### 💀 Heroic
 
-- Nothing
+- The tank **charge mechanic** from the boss in phase one now does **raid-wide falloff damage**
+  - No real change here, just have the boss charge away from the raid
+- The **roots** that chase people are **untargetable** until you hit it with some **Dream Blossom**
+  - The people in charge of the **seed** need to find it and douse it before we can kill it
+- People that interact with the **seed** get a 4m debuff preventing them from doing it again
+  - We already deal with this by rotating people doing it
+- The **adds** in phase two leave behind **pools of fire**
+  - No change in strategy, as you can't clear them; just kill the adds and eventually we'll run out of room
 
 ## Nymue, Weaver of the Cycle
 

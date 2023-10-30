@@ -78,11 +78,22 @@
 
 ### Phase 1
 
-- **Ability**: Desc
+- **Fiery Force of Nature**: Kill adds, interrupts and then healers heal them up
+- **Blazing Thorns**: Dodge swirlies, then collect fire orbs
+- **Scorching Roots**: Switch; kill the roots; then healers heal it up
+- **Raging Inferno (full energy)**: Stack up in green circle; big heals
+
+### Intermission (40%)
+
+- **Consuming Flame**: Spread out a bit; healer CDs, shout, personals
 
 ### Phase 2
 
-- **Ability**: Desc
+- **(Start)**: Lust it
+- **Falling Embers**: Individual soaks
+- **Flash Fire**: Healers save the people with the heal absorb shield
+- **Fire Whirl**: Watch out for tornados
+- **Ashen Call**: Kill adds; use snares and knockbacks; melee be careful the treants hit you if you get close
 
 ## Nymue, Weaver of the Cycle
 
