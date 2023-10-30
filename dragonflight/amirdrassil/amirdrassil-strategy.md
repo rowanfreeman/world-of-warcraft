@@ -404,13 +404,17 @@
 
 ### ✅ Preparation
 
-<img src="" />
+<img src="img/nymue.png" />
 
-- Prep
+- Pronounce "NIM-weh"?
+- Two markers: **blue square** on the left and **red X** on the right
+- Get two groups ready: **odds and evens**
+  - Each group should roughly stick to their side
+- Have one healer in each group, if there is a third healer (or more) have them be around
 
 ### 📜 Overview
 
-- Overview
+- Two phases
 
 ### 🛡 Tanks
 
