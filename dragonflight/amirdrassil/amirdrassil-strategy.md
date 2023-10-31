@@ -268,8 +268,7 @@
 #### Intermission (40%)
 
 - The **intermission** is short; it's just a **chanelled AoE** between phases one and two
-  - It hurts a ton and you **explode constantly** on anyone nearby
-  - So just **spread out** and stay alive until it's over
+  - It hurts a ton, so just **stack up** and stay alive until it's over
   - Use **self-heals** if you can
 
 #### Phase 2
@@ -286,7 +285,7 @@
 
 - The boss constantly drops **fire patches** when moving so you want to avoid moving the boss too much
 - In phase one your job is the **boss** and the **adds**
-  - The tank mechanic is a **charge** from the boss
+  - The tank mechanic from the boss is a **charge**
   - The damage **you take** is reduced based on **distance** so just **run away** from the boss
   - And the damage that we take is reduced based on **distance** also, so have the boss charge **away from the raid**
   - Keep in mind that the boss will be **dropping pools** when he moves so having him run over **existing pools** is a good thing
@@ -407,11 +406,11 @@
 
 <img src="img/nymue.png" />
 
-- Pronounce "NIM-weh"?
+- Pronounce "NIM-weh"? "NEEM-you"?
 - Two markers: **blue square** on the left and **red X** on the right
 - Get two groups ready: **odds and evens**
   - Each group should roughly stick to their side
-- Have one healer in each group, if there is a third healer (or more) have them be around
+- Have one healer in each group, if there is a third healer (or more) have them be around the centre during phase one
 
 ### 📜 Overview
 
@@ -435,7 +434,10 @@
 
 ### 💀 Heroic
 
-- Nothing
+- The **explosive seed mechanic**, Weaver's Burden, now leaves behind a **Monk donut**
+  - And the player gets a +100% nature damage taken debuff (30s)
+  - Not much change in strategy here, just more difficult; placement of donuts is important
+- The **tree adds** now also spawn the plants that need to be **soaked**
 
 ## Smolderon
 

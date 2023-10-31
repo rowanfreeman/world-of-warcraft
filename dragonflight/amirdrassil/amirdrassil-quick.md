@@ -75,7 +75,7 @@
 
 ### Intermission (40%)
 
-- **Consuming Flame**: Spread out a bit; healer CDs, shout, personals
+- **Consuming Flame**: Move away from the boss; stack up; healer CDs, shout, personals
 
 ### Phase 2
 
