@@ -45,6 +45,7 @@
 
 ## Igira the Cruel
 
+- **(Start)**: Lust it
 - **Blistering Spear**: Drop your spears near the boss; don't kill each other
 - **Twisting Blade**: Dodge
 - **Harvest of Screams**: Big heals
@@ -59,6 +60,7 @@
 
 ## Volcoross
 
+- **(Start)**: Lust it
 - **Serpent's Fury**: People with orange circles spread out and get away
 - **Scorchtail Crash**: Watch out for the shadow; dodge it
 - **Volcanic Disgorge**: Dodge swirlies
@@ -87,6 +89,7 @@
 
 ## Council of Dreams
 
+- **(Start)**: Lust it
 - **Poisonous Javelin**: Spread out; poison cleanses
 - **Noxious Blossom**: Dodge green swirlies
 - **Polymorph Bomb**: People that are ducks, run through poison flowers; then use the Preen ability to dispel yourself
@@ -99,11 +102,20 @@
 
 ### Phase 1
 
-- **Ability**: Desc
+- **(Start)**: Lust it
+- **Surging Growth**: Ranged help soak; stand on the green plants
+- **Impending Loom**: Dodge the laser beams; melee watch out
+- **Viridian Rain**: Big heals on those people
+- **Continuum**: New lines are being drawn
+- **💀 Weaver's Burden**: If you have a circle, drop your pool somewhere sensible
 
-### Phase 2
+### Phase 2 (100 energy)
 
-- **Ability**: Desc
+- **Full Bloom**: Tanks soak on the boss; melee get away from the boss
+- **(Start)**: Blue side, red side, split up; follow your tank through the grass
+- **Lumbering Slam**: Dodge
+- **Radial Flourish**: Dodge
+- **💀 Surging Growth**: Ranged help soak; stand on the green plants
 
 ## Smolderon
 

@@ -211,8 +211,6 @@
 
 ### ✅ Preparation
 
-<img src="" />
-
 - Nominate a bunch of DPS as **cleaners**
 - Take them to a separate **Discord channel**
 - For this fight the floor is going to be convered in **fire patches** and so we could run out of room
@@ -333,7 +331,7 @@
 
 ### ✅ Preparation
 
-- Get the raid into two groups: odds and evens
+- Get the raid into two groups: **odds and evens**
 
 ### 📜 Overview
 
@@ -409,34 +407,73 @@
 - Pronounce "NIM-weh"? "NEEM-you"?
 - Two markers: **blue square** on the left and **red X** on the right
 - Get two groups ready: **odds and evens**
-  - Each group should roughly stick to their side
-- Have one healer in each group, if there is a third healer (or more) have them be around the centre during phase one
+  - Have one healer in each group, if there is a third healer (or more) have them be around the centre during phase one
+  - Odds **blue square**, evens **red X**
+  - For phase one, each group should roughly stick to their side; i.e. imagine a wall splitting the room in half
 
 ### 📜 Overview
 
-- Two phases
+- This fight has **two phases**, and it cycles between phase one and phase two on a timer
+- Purely **single-target**
+- In **phase one** we deal with the **boss** and in **phase two** we split up into **teams** and fight a **miniboss** each; one on **blue square** and one on **red X**
+  - Odds blue square, evens red X
+- The way this fight works is that the room is divided by glowing lines called **verdant lines**
+  - If you pass through a line, you will take a short **2-second DoT**; but this DoT stacks if you run through additional lines within that **2 seconds**
+  - **Passing through a line is ok** if you are healthy but try to stagger it before you pass through another
 
 ### 🛡 Tanks
 
-- Tanks
+- In **phase one** your only mechanic is that occasionally one of you will get a **circle** on you and you just run it out until it expires and then come back
+  - So swap on that
+  - On normal difficulty, that's about it
+  - Other than that, her only threat to you is called **Threaded Blast**, it's a big nuke that should hurt but it doesn't have a debuff or anything
+- In **phase two**, you will take your team to your marker and tank a miniboss
+  - The **miniboss** has no real tank mechanic
+  - You can move the **miniboss** but do not take it through a line
+- Going back to phase one, you'll notice that when the **circle** on you expires you leave behind a **trail of grass**
+  - The **grass** allows us (the raid) to walk through it and walk through the lines without any penalty
+- This becomes important for the **phase transition**
+  - As **phase one ends**, the boss will cast **Full Bloom**; it'll look like a **dangerous circle** around the boss that you would normally avoid
+  - But you want to **get hit** by this
+  - Once you do, you have **four seconds** to get to your marker and as you're running, you'll leave behind **grass** allowing your team to follow you safely
+  - Remember that the ranged are behind you, further away; so maybe run in an arc that kinda "scoops up" your ranged people so that they can touch **grass**
 
 ### 🤺 Raid
 
-- Raid
+- In phase one
+  - For positioning
+    - Everyone should imagine a **wall** going down the middle of the room from the boss; **blue team** should be a little **left of centre**, **red team** should be a little **right of centre**
+    - Melee will be up near the boss but ranged need to spread out a bit
+  - The reason that we spread out is that ranged, you need to **soak green plants**
+  - There will be little **green circles** with plants in them going out all the time and they **pulse AoE** on the raid
+  - If you stand in them, it reduces their duration from **minutes** to **seconds**
+  - **Crossing a line** to soak a plant is better than that plant's AoE
+  - The only other thing in phase one is **horizontal laser beams** that march slowly outwards from the boss; just **dodge them**
+    - **Melee** you can see where the **laser beam** is coming from if you watch carefully so you get an early warning
+- As we **transition** to phase two you need to **follow your tank** to your marker
+  - Your tank will leave behind a **trail of grass**, you should walk in this grass to follow them
+  - Once you're at the **miniboss**, just dodge anything dangerous
+- Once we return to phase one the boss will **redraw the lines** so the pattern will be completely different
 
 ### ⚕ Healers
 
-- Healers
+- During phase two, when you're fighting the miniboss, you might need a healer CD per team when the add is under 30%
 
 ### 👌 Summary
 
-- Summary
+- In phase one
+  - Running through a line is ok but don't do it too often
+  - Ranged soak the green plants
+  - Everyone dodge laser beams
+- When we transition to phase two, follow the tank for your team by walking in the grass that they leave behind
 
 ### 💀 Heroic
 
-- The **explosive seed mechanic**, Weaver's Burden, now leaves behind a **Monk donut**
-  - And the player gets a +100% nature damage taken debuff (30s)
-  - Not much change in strategy here, just more difficult; placement of donuts is important
+- The **explosive seed mechanic**, Weaver's Burden, now applies to several players rather than just the tanks
+  - **Ranged** should drop pools at the back
+  - **Melee** should drop pools to the left or right of the boss along the wall
+  - Now leaves behind a **Monk donut**
+  - The player gets a **+100% nature damage taken debuff** (30s) which forces tanks to swap? Since her main nuke is partially nature damage
 - The **tree adds** now also spawn the plants that need to be **soaked**
 
 ## Smolderon
