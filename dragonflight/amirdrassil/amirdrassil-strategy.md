@@ -423,6 +423,7 @@
 
 ### 🛡 Tanks
 
+- The boss is stationary
 - In **phase one** your only mechanic is that occasionally one of you will get a **circle** on you and you just run it out until it expires and then come back
   - So swap on that
   - On normal difficulty, that's about it
@@ -480,33 +481,62 @@
 
 ### ✅ Preparation
 
-<img src="" />
+<img src="img/smolderon.png" />
 
 - Prep
 
 ### 📜 Overview
 
-- Overview
+- This is a purely **single-target fight** with one main phase and one intermission or down phase similar to **Rashok from Aberrus**
+- It **repeats** in a loop between phase one and the intermission
+- If you get a **fourth intermission** it's a hard enrage
+- **Mechanically** this fight is quite simple, it's just a lot of movement
+- For this fight, **pools of lava** will occasionally spawn under us and they are permanent so we will run out of room
+  - It's important to bait these pools close in a **cluster** rather than spread them out
+- So what we're going to do is fight near the **edge** and walk the boss slowly around the room
 
 ### 🛡 Tanks
 
-- Tanks
+- Walk the boss around the room clockwise, staying ahead of the **lava pools** on the ground
+  - Running out of room is a **soft enrage**
+- Your tank mechanic is a **soak** where half of the raid needs to save you
+  - Soaking leaves a **debuff** so only the current tank should take the hit
+  - Maybe the **offtank** should go stand behind the boss with the **melee**
+- **Taunt** after each soak mechanic
 
 ### 🤺 Raid
 
-- Raid
-
-### ⚕ Healers
-
-- Healers
+- For phase one
+  - Half the raid is going to get a debuff called **Overheated**; it's a circle around you
+    - Just **spread out** for it
+  - The other half of the raid needs to help **soak** on the tank for a **split damage mechanic**
+  - Be aware that when you help **soak** you get a **heal absorb** on you and when we heal through that, an **explosion** will drop at your feet so dodge it
+- For the **intermission** the boss will go to the **centre of the room** and do a **knockback**
+  - Come in a bit and don't be near the edge
+- At the start of the **intermission**, some people will drop **firey orbs** that will slowly float towards the boss
+  - Only you can see your own **orbs** and you must **pick them up**; there's about five of them
+  - They give you a **damage and healing buff**
+  - If they reach the **boss**, he gets a **buff**
+- During the intermission we will be **dodging donuts**
+  - If you remember in **Halls of Infusion** dungeon the third boss is a female troll called **Khajin the Unyielding**
+    - She casts **rings** - it's that
 
 ### 👌 Summary
 
-- Summary
+- Phase one
+  - Stay **clustered** behind the boss
+  - Spread if you get **orange circle** on you, otherwise **soak** on the tank
+- For the intermission
+  - There is a **knockback**
+  - Then collect your **orbs** if you have some
+  - Dodge the **rings**
 
 ### 💀 Heroic
 
-- Nothing
+- The tank that gets hit by the **soak**, aka **Brand**, now gets a **6sec bomb** with **falloff damage**
+  - Tank must run away from the raid
+- **Overheated** now releases fire tornadoes to **dodge** when it expires
+  - They are in an inverted Y pattern - one out your front, one back left, one back right
 
 ## Tindral Sageswift, Seer of the Flame
 

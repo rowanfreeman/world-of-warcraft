@@ -121,11 +121,14 @@
 
 ### Phase 1
 
-- **Ability**: Desc
+- **Overheated**: Spread out if you've got it; everyone else get ready to soak
+- **Brand of Damnation**: Help soak if you don't have the circle debuff; get ready for dodging
+- **Lava Geysers**: We're dropping pools and moving the boss
 
 ### Phase 2
 
-- **Ability**: Desc
+- **(Start)/World in Flames/Devour Essence**: Incoming knockback, come close to the centre; collect your orbs; dodge donuts; use speed boosts
+- **(Third Intermission)**: Lust it
 
 ## Tindral Sageswift, Seer of the Flame
 
