@@ -483,8 +483,6 @@
 
 <img src="img/smolderon.png" />
 
-- Prep
-
 ### 📜 Overview
 
 - This is a purely **single-target fight** with one main phase and one intermission or down phase similar to **Rashok from Aberrus**
