@@ -506,6 +506,7 @@
 
 ### 🤺 Raid
 
+- Don't go infront of the boss because we're going to be **dropping pools** and we want to be dropping them **behind us**, not where we're about to walk to
 - For phase one
   - Half the raid is going to get a debuff called **Overheated**; it's a circle around you
     - Just **spread out** for it
