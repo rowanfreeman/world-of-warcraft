@@ -548,36 +548,36 @@
 
 ### 📜 Overview
 
-- Mostly single target but some bursty AoE is good, please bring some AoE
+- Mostly **single target** but some **bursty AoE is good**, please bring some AoE
 - Three phases
-  - Each phase is fought on a different platform so this first platform is phase one and then we go to other platforms for phases two and three
-  - In phase one we deal with his caster form abilities and his Moonkin form which has a couple of extra abilities
-  - In phase two we deal with his caster form abilities again but this time his Tree form which has different abilities to Moonkin
-  - And then in phase three its caster form abilities, and Moonkin and Tree
-  - So phase three is a burn phase on the final platform where we will lust
+  - Each phase is fought on a **different platform** so this **first platform** is **phase one** and then we go to **other platforms** for phases two and three
+  - In **phase one** we deal with his caster form abilities and his **Moonkin form** which has a couple of extra abilities
+  - In **phase two** we deal with his caster form abilities again but this time his **Tree form** which has different abilities to Moonkin
+  - And then in **phase three** its caster form abilities, and **Moonkin** and **Tree**
+  - So **phase three** is a burn phase on the **final platform** where we will lust
 
 ### 🤺 Raid
 
 - For positioning, everyone try to be **fairly close** to the boss
 - Throughout the fight we have to deal with **Entangling Roots**
-  - You know this is coming because you'll have a **little circle** around you
-  - For this we want to **cluster up** around the boss; but **don't overlap your circles** on each other
-  - A **root** will spawn on each of us and you need to kill them; please help break out the healers
+  - You know this is coming because everyone gets **little circles**
+  - For this we want to **cluster up** around the boss; just **don't overlap your circles** on each other
+  - A **root** will spawn on each of us and you need to **kill them**; please help break out the **healers**
   - If you have a **root escape or immunity**, you can use that
 - Next up, the boss will put a **DoT** on a few people called **Fiery Growth**
   - If you get this, get away and go behind the raid and ask for a **dispel**, when we dispel you, you will drop a **big pool**
-- If you get a **big blue circle** around you, just move away from the raid
+- If you get a **big blue circle** around you, just move away from the raid anywhere
   - You'll **detonate** after a few seconds and then everyone will have to **dodge blue swirlies**
-- Once phase one is done the boss will change to **Owl form** and cast a **knockback** and he will flee to the next platform
-  - What you need to do is pick up a **feather** which will grant you your **dragon mount**, so you will be **dragonriding** for this
+- Once **phase one** is done the boss will change to **Owl form** and cast a **knockback** and he will flee to the next platform
+  - What you need to do, everyone, is pick up a **feather** which will grant you your **dragon mount**; so you will be **dragonriding** for this
   - Your job is to follow the boss and along the way pick up **green orbs** and dodge **red orbs**
   - **Green orbs** give the whole raid a **damage boost**
 - Now, when the boss gets to the next platform he will **shield himself** and start casting a **30 second hard enrage**
   - **All DPS**: you must get to that platform quickly and get through his shield to **interrupt him**
   - **Healers and tanks** you can spend an extra few seconds if you need to pick up **green orbs**
-- In phase two the boss will sometimes put fiery seeds all over the ground
-  - Everyone's job is to walk over two or three of them
-  - They do hurt with a stacking DoT and debuff, so be careful
+- In **phase two** the boss will sometimes put **fiery seeds** all over the ground
+  - Your job is to walk over **two or three** of them
+  - They do hurt with a **stacking DoT and debuff**, so be careful
   - But feel free to **Hunter turtle** or **Rogue cloak** and pick up a bunch
 
 ### 🛡 Tanks
@@ -590,13 +590,13 @@
   - Each one spawns three seconds apart and each mushroom detonates after three seconds
   - Your job is to **soak them** and you don't want to soak **two in a row**; so just alternate soaking them
   - You don't need to **taunt swap** for this
-  - Obviously one of you will be moving the boss in order to soak but that's fine he has no cleave
+  - Obviously one of you will be moving the boss in order to **soak** but that's fine he has **no cleave**
   - Probably your biggest challenge in this fight is needing to **soak a mushroom** but you're **rooted in place**
     - If you can **break roots** or have **root immunity**, that's the time to do it
 - In **phase two** we'll have a mechanic where fire seeds are all over the ground and the raid needs to stomp on them
-  - If you can help with this that's great
-  - Running over lots of them hurts but as a tank you're probably fine
-  - This mechanic isn't your highest priority
+  - **If you can help** with this that's great
+  - Running over lots of them **hurts** but as a **tank** you're probably fine
+  - This **mechanic** isn't your highest **priority**
 
 ### ⚕ Healers
 
@@ -612,7 +612,7 @@
 - Melee, dodge the **large mushrooms** that spawn, they are for the tanks
 - If anyone gets the **dispellable DoT**, move away behind the raid and ask for a **dispel** and you will drop a pool
 - When **firey seeds** pop up everywhere, help run over two or three of them
-- When we're changing platforms, pick up a feathter, follow the boss, and get through his shield
+- When we're changing platforms, pick up a **feathter**, follow the boss, and get through his **shield**
 
 ### 💀 Heroic
 
