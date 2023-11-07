@@ -134,11 +134,37 @@
 
 ### Phase 1
 
-- **Ability**: Desc
+- **Mass Entanglement**: Cluster them around the boss; don't overlap; break people out
+- **Fiery Growth**: Move to the back with it and don't be near each other; ask for a dispel
+- **Falling Star**: Move away if you've got it; everyone dodge swirlies
+- **Searing Moonkin Form**: Healer CD if needed; get ready to dodge fire beams
+  - **Fire Beam**: Everyone dodge fire beams
+
+### Intermission
+
+- Everyone pick up a feather; mount up; follow the boss
+- Green orbs are good; red orbs are bad
 
 ### Phase 2
 
-- **Ability**: Desc
+- **Mass Entanglement**: Cluster them around the boss; don't overlap; break people out
+- **Fiery Growth**: Move to the back with it; ask for a dispel
+- **Falling Star**: Move away if you've got it; everyone dodge swirlies
+- **Burning Treat Form**: Healer CD if needed; get ready to stomp on seeds
+  - **Supressive Ember**: Heal through absorb shields
+  - **Flaming Germination**: Everyone stomp on two or three seeds; healer CD
+
+### Phase 3
+
+- **(Start)**: Lust it
+- **Mass Entanglement**: Cluster them around the boss; don't overlap; break people out
+- **Fiery Growth**: Move to the back with it; ask for a dispel
+- **Falling Star**: Move away if you've got it; everyone dodge swirlies
+- **Searing Moonkin Form**: Healer CD if needed; get ready to dodge fire beams
+  - **Fire Beam**: everyone dodge fire beams
+- **Burning Treat Form**: Healer CD if needed; get ready to stomp on seeds
+  - **Supressive Ember**: Heal through absorb shields
+  - **Flaming Germination**: Everyone stomp on two or three seeds; healer CD
 
 ## Fyrakk the Blazing
 
