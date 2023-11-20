@@ -624,12 +624,6 @@
 
 ### ✅ Preparation
 
-<img src="" />
-
-- Prep
-
-### Phase 1
-
 ### 👌 Summary
 
 - Phase one
