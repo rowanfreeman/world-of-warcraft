@@ -170,8 +170,26 @@
 
 ### Phase 1
 
-- **Ability**: Desc
+- **Dream Rend**: Run away from it
+- **Firestorm**: Drop your pools near fire
+- **Aflame**: Dispels
+- **💀 Blaze**: Lines; don't move too much, don't hit each other
+
+### Intermission
+
+- **(Start)**: Spread out around the boss; intercept orbs; get through the boss' shield
 
 ### Phase 2
 
-- **Ability**: Desc
+- **(Start)**: Stay away from where he'll land
+- **Spirits of the Kaldorei**: Healers heal up the NPCs
+- **Greater Firestorm**: Dodge; adds are spawning on tanks
+- **Shadowflame Devastation**: Dodge the deep breath, stay together; kill adds; grip adds
+- **💀 Blaze**: Lines; don't move too much, don't hit each other; don't hit friendly NPCs
+
+### Phase 3
+
+- **Seed of Amirdrassil**: Pick up a seed if you want
+- **Apocalypse Roar**: Stack up, activate your seed
+- **Shadowflame Breath**: Dodge the breath
+- **💀 Blaze**: Lines; don't move too much, don't hit each other

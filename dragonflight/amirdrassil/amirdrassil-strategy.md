@@ -650,4 +650,7 @@
 
 ### 💀 Heroic
 
-- Nothing
+- During all phases, random players will gain the Blaze debuff.
+  - It's a lines mechanic
+  - Best strategy is to minimise movement and let other people dodge
+  - Don't hit friendly NPCs with it
