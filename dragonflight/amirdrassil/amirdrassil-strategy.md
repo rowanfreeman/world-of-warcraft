@@ -622,8 +622,6 @@
 
 ## Fyrakk the Blazing
 
-### ✅ Preparation
-
 ### 👌 Summary
 
 - Phase one
