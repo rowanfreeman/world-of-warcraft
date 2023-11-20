@@ -170,7 +170,8 @@
 
 ### Phase 1
 
-- **Dream Rend**: Run away from it
+- **(Start)**: Lust it
+- **Dream Rend**: Run away from it; healer CD
 - **Firestorm**: Drop your pools near fire
 - **Aflame**: Dispels
 - **💀 Blaze**: Lines; don't move too much, don't hit each other
@@ -184,7 +185,7 @@
 - **(Start)**: Stay away from where he'll land
 - **Spirits of the Kaldorei**: Healers heal up the NPCs
 - **Greater Firestorm**: Dodge; adds are spawning on tanks
-- **Shadowflame Devastation**: Dodge the deep breath, stay together; kill adds; grip adds
+- **Shadowflame Devastation**: Dodge the deep breath; kill adds; grip adds; interrupts
 - **💀 Blaze**: Lines; don't move too much, don't hit each other; don't hit friendly NPCs
 
 ### Phase 3

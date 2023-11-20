@@ -628,29 +628,26 @@
 
 - Prep
 
-### 📜 Overview
-
-- Overview
-
-### 🛡 Tanks
-
-- Tanks
-
-### 🤺 Raid
-
-- Raid
-
-### ⚕ Healers
-
-- Healers
+### Phase 1
 
 ### 👌 Summary
 
-- Summary
+- Phase one
+  - Drop your pools at the back near the other fire pools
+  - Run away when he's sucking you in and group up for big heals
+- Intermission
+  - Spread out and surround the boss
+  - Collect orbs, use your DPS CDs and bust through the shield
+- Phase two
+  - Dodge the deep breath and then kill the adds that spawn; use interrupts and stuns
+  - Try to prioritise killing the adds that are in the path of the friendly NPCs
+- Phase three
+  - Anyone can pick up a seed but be aware that if you take any avoidable damage then you lose the seed and it hurts the raid
+  - Apocalypse Roar is the boss' lethal AoE; stack up for it and use your seed; that is, use your extra action button
 
 ### 💀 Heroic
 
-- During all phases, random players will gain the Blaze debuff.
-  - It's a lines mechanic
+- During all phases, random players will gain the Blaze debuff
+  - It's a **lines mechanic**
   - Best strategy is to minimise movement and let other people dodge
   - Don't hit friendly NPCs with it
