@@ -1,0 +1,11 @@
+:root {
+  font-size: 2rem;
+}
+
+h1:not(:first-of-type) {
+  margin-top: 100vh;
+}
+
+main {
+  padding-bottom: 40vh;
+}
