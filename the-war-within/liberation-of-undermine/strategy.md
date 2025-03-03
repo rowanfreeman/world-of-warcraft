@@ -60,14 +60,15 @@
 - If you get a **big purple circle**, move away from the raid
 - If you get targeted with a **red arrow** on you, stutter step around and don't run into other people
 - Kill the **biker adds** and then **steal their bikes** and ride them into the **boss**
-- For **phase two**, lust it, and kill and interrupt and stun the **adds** that spawn
+- For **phase two**, we lust it, and kill and interrupt and stun the **adds** that spawn but your **priority target** in phase 2 should still be the boss
 
 ## 💀 Heroic
 
-- The **big purple circles** on players, Spew Oil, now leaves behind an oil slick which is a big pool of bad
-- The **tankbuster** also leaves an oil slick pool
-  - We shouldn't need to change our strategy too much, just kite around the edge of the room and drop oil slicks behind us as we go
-- The **bikers** get **stunned** if they go over **oil slicks**, so it might be worth trying to **bait the bikers** to gon through a **pool**?
+- The **big purple circles** on players, Spew Oil, now leaves behind an **oil slick** which is a **big pool of bad**
+- The **tankbuster** also leaves an **oil slick pool**
+- Drop pools at the edge of the room and behind the boss and then we move along
+- The **bikes** get **stunned** if they go over **oil slicks** so if you're helping out by driving bikes into the boss, **do not let your bike go through a pool**
+- People dropping the **fire circles** can burn away the pools by making sure a **circle** hits the **pool**
 
 # Cauldron of Carnage
 
@@ -108,7 +109,11 @@
 - **Stay with your team** at all times
 - When you're on the **TRex** side there are **two main things** to know about
   - Occasionally a **big bomb** will spawn; it is a **group soak** so please help soak
-  - One person will get targeted by the **TRex** with a **laser beam**; you have a few seconds to **point the boss away**; you must point the boss to **shoot off into nowhere**; we don't want the boss breathing his laser into the **group soak** or into the **Ape team**
+  - One person will get targeted by the **TRex** with a **laser beam**
+    - The way this **laser beam** works is that first the boss will **aim** at you for a few seconds and then he'll **lock into position**
+    - Once he's **locked**, then you can move out of the beam because he'll take **another second or two** to shoot
+    - If you get the **laser beam** you should stay still and **minimise your movements** so other people can dodge
+    - If we're doing the **soak mechanic** at the same time, just shuffle to one side of the **soak circle** and stay still until the **TRex** locks into place
 - For the **Gorilla** side there are **two main things** to know about
   - One is called **Static Charge** in which you will be given a **bar** on your UI
     - The bar **fills up** if you **move**, and **empties** when you **stay still**
@@ -120,7 +125,7 @@
 ## ✅ Summary
 
 - Stay with your team; **odds** starting on **TRex**, **evens** starting on **Gorilla**
-- When you're on the **TRex** side, help out with the **group soak** and if the boss targets you with a **laser beam** you need to **point him away**
+- When you're on the **TRex** side, help out with the **group soak** and if the boss targets you with a **laser beam** you need to **stay still**
 - When you're on the **Ape** side, minimise your movements
   - And when the **blue circles** appear underneath everyone, **stutter step** around
 - When the bosses **fight in the middle**; that's the **intermission**; you **dodge stuff** and **hit both bosses** and then you **swap sides**
@@ -133,7 +138,8 @@
   - Spread out and big heals
 - On the **Ape** side, **adds** appear and **fixate** on people for **12 seconds**
   - The adds **mustn't touch anyone**
-  - Maybe try **snares**, **stuns**, **knockbacks** and **speed boosts**
+  - Use **snares**, **stuns**, **knockbacks**, Evoker landslides and **speed boosts**
+  - They **expire** after **12 seconds** so no one touch them with damage
 
 # Rik Reverb
 
@@ -273,8 +279,9 @@
   - When they explode, they **AoE us all** and put a **2sec debuff** on us, so if multiple go off at once it's a **wipe**
   - What we need to do is **stagger the explosions**
   - **One person** can't do them all because of a **debuff**
-  - Therefore, grab **two ranged volunteers** and a tank to detonate them in order, staggered by 2sec per person
-  - E.g. Offtank -> Ism -> Salbei -> Leave the last one to detonate
+  - Create **a few land mine teams** made up of ranged/healers
+    - Maybe each team can be **1 tank** and **2 ranged**, if the tanks are not too busy?
+    - E.g. Team 1: Tank (any) --> Ism --> Salbei --> Let last one expire; Team 2: Tank (any) --> Fivemin --> Jordo --> Let last one expire
 
 # One-Armed Bandit
 
@@ -287,50 +294,68 @@
   - Flame/Shock
   - Coin/Shock
   - Bomb/Shock
+- We'll usually leave shock (pylons) to last?
 
 ## 📜 Overview
 
-- Lust in phase two
+- **Two phases**
+- Mostly **single target** with occasional adds; **good for multi-dotting** but not good for AoE
+- **Phase two** begins at **30% health** (or after 6 token combinations) and it's a race to the end with a **hard enrage**
+- **Lust in phase two**
 
 ## Phase one
 
-- Description
+- The way this fight works is that the boss is going to **spawn three adds**
+  - The **three adds** need to be **interrupted** and **killed**
+  - When the adds die, they leave behind a **token**
+  - The token is one of **four possible symbols**: either **Flame**, **Shock**, **Coin** or **Bomb**
+  - We can pick up the **tokens** and take them to the **boss**
+  - Once we submit **two** of them, we are done and the boss will do a mechanic
+  - **For example** if we kill the three adds; one of them might drop **Coin**, one of them **Flame** and one of them **Bomb**
+    - We submit **any two we want**, such as **Flame** and **Bomb**, and we're done
+  - The key is that we cannot submit a combination that we've **already done**; if we submit **Flame** and **Bomb** again later in the fight, we wipe
+  - I'll try to call out which **combination** we're going for, otherwise **I am not too fussed** which order we do them in
+  - I need anyone; **melee** or **ranged** to be the ones to volunteer to pick up a token and submit it
+- **Phase one** has a lot of mechanics, so I'll only go over them quickly
+- First of all, the boss will launch some **coins** out marked by **blue lines** on the ground
+  - The **coins** are very big and they will **roll through the raid**; you need to **dodge them**, but standing next to them when they roll past you will give you a **damage/healing buff**
+    - So it's up to you if you want to gamble your life for that
+- If you get **fixated by an add**, don't let it touch you and kite it through the melee so everyone can kill it
+- If you get a debuff called **Withering Flames**, a healer needs to **dispel** you
+  - But when we do you'll unleash **flames** around you so we need you to **move away first** and then **ask for a dispel**
+  - Healers don't dispel in this fight unless the person is **in a safe spot**
 
 ### 🛡️ Tanks
 
-- Description
-
-### 🪖 Raid
-
-- Description
-
-## Intermission
-
-- Description
+- Walk the **boss** around the edge of the room
+- Your **tankbuster** drops a **pool** so you'll want to be against the wall for that
+- I don't think you need to pick up the **adds**
+- Another task for you is to help with the **coins** rolling through the room
+  - When the **coins** roll through they will eventually hit the wall, they'll just **sit there forever** ticking damage on us
+  - But if you walk up to them you can **roll them once** more to destroy them
+  - It's up to you if you want to roll them **through the raid** or roll it **straight into a wall**
+- One last thing to mention is **pylons** and **running out of room**
+  - I don't know if this is a necessary strat, it might be more of a **heroic** thing
+  - But if we're running out of room due to **puddles** on the floor, you can **activate pylons** to destroy pools
+  - The **pylons** occasionally spawn due to the **token submission mechanic**
+  - That's just an **FYI**; up to you if we need to do it
 
 ## Phase two
 
-- Description
-
-### 🛡️ Tanks
-
-- Description
-
-### 🪖 Raid
-
-- Description
-
-## Phase three
-
-- Description
-
-### 🛡️ Tanks
-
-- Description
+- No more **adds**
+- Still the **coins** rolling through and still the tanks are **dropping pools**
+- The boss is going to tether itself to some **pylons** with **lightning**; it's really obvious just **avoid lightning**
+- The main thing to be aware of is red arrows on your head
+  - If you get targeted with a red arrow you need to **self isolate** because the boss is going to shoot a **laser beam** at you and you don't want to hit anyone else
+  - So red arrows to the wall
 
 ## ✅ Summary
 
 - Dodge the **coins** that roll through the room; but stand next to them for a **buff** if you choose
+- When the boss spawns **three adds**, kill them and submit **two** of their **tokens** to the boss
+- If you are being **fixated** by an **add**, don't let it touch you
+- If any **adds** put a **debuff** on you, move away and ask for a **dispel**
+- In **phase two** if you get targeted with a **red arrow** on your head; move away from the raid
 
 ## 💀 Heroic
 
@@ -341,8 +366,13 @@
 
 ## 📝 Preparation
 
-- Img
-- Description
+![mugzee](img/mugzee.png)
+
+- Place a **blue marker** for the **blue/grey** side and a **red marker** for the **red/brown** side
+- Organise two teams: **left team** and **right team**
+  - Each team needs **four DPS** (melee or ranged is fine) and **one healer**
+- Make it so that those teams are sorted in raid as well for easier healing
+  - Maybe **group 2** can be **team left** and **group 3** can be **team right**
 
 ## 📜 Overview
 
@@ -386,11 +416,23 @@
 
 ## ✅ Summary
 
-- Description
+- **Red side**
+  - We're dealing with the **gaols** which basically means **team left** on the **left soak**, **team right** on the **right soak**
+  - If you get targeted with a bunch of **lightning** coming from the boss, **stay still** and let other people dodge it
+- **Blue side**
+  - 
 
 ## 💀 Heroic
 
-- Description
+- **Red side**
+  - The **boots** mechanic that makes people **slippery** will now shoot a **spear** at those people
+  - You do not want to get hit by the **spear**
+  - **Line of sight** using the **gaols** so that the spear hits the **gaol walls**
+- **Blue side**
+  - Players can't soak every rocket because of a **debuff**
+    - We are already handling this with **two groups**
+  - People who detonate a **mine** cannot do it again due to a debuff
+  - Detonating the **mines** causes a bunch of individual soaks
 
 # Chrome King Gallywix
 

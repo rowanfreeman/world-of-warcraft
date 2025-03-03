@@ -20,8 +20,8 @@
 # Vexie Fullthrottle and the The Geargrinders
 
 - **Call Bikers**: Kill the bikers and then steal their bikes; drive your bike into the boss
-- **Spew Oil**: Purple circles move away; self-isolate
-- **Incendiary Fire**: Those targeted with red arrows on your head, stutter step to avoid the orange circles
+- **Spew Oil**: Purple circles to the walls or behind the boss
+- **Incendiary Fire**: Red arrows, stutter step to avoid the orange circles
 - **Bomb Voyage!**: Big heals
 - **Mechanical Breakdown/Tune Up**: Phase 2, lust it, interrupt and stun the adds
 
@@ -29,7 +29,7 @@
 
 - **Colossal Clash**: Intermission; stay with your team, hit both bosses, and then swap sides
 - **🦖 Scrap Bomb**: Help soak the bomb
-- **🦖 Blastburn Roarcannon**: Face the boss away from everyone; point him at a wall
+- **🦖 Blastburn Roarcannon**: Stay still with it; let everyone else dodge
 - **🦖 💀 Molten Phlegm**: Spread out, big heals
 - **🦧 Thunderdrum Salvo**: Spread out, dodge and stutter step
 - **🦧 Static Charge**: Ape team minimise your movements
@@ -65,9 +65,10 @@
 
 ## Phase one
 
-- **Pay-Line**: Dodge the coins rolling through, stand near them to get a buff
+- **Pay-Line**: Dodge the coins rolling through, stand near them to get a buff; tank or ranged go throw them
 - **Foul Exhaust**: Big heals, get through the heal absorb
-- **Spin To Win!**: Interrupts on the Reel Assistants; Kill X and Y, ignore Z; If you get the debuff move away from others and ask for a dispel
+- **Spin To Win!**: Interrupts on the Reel Assistants; Kill the adds, submit X and Y tokens; If you get the debuff move away and ask for a dispel
+- **Withering Flames**: Move away and ask for a dispel; everyone else dodge the flames
 - **Flame/Coin**: Big heals, healer CD
 - **Flame/Bomb**: Kill the adds, don't let them touch you, use CC; they explode when they die so dodge their flames
 - **Coin/Bomb**: Kill the adds, don't let them touch you; you can't CC them
@@ -75,40 +76,46 @@
 - **Coin/Shock**: Don't get sucked into the coils
 - **Bomb/Shock**: Kill the adds, don't let them touch you, use CC
 
-## Phase two
-- **Cheat to Win!**: Phase two, lust it
-- **Pay-Line**: Dodge the coins rolling through, stand near them to get a buff
+## Phase two (30%)
+- **Cheat to Win!/Rig the Game**: Phase two, lust it, stay grouped
+- **Pay-Line**: Dodge the coins rolling through; tank or ranged go throw them
 - **Foul Exhaust**: Big heals, get through the heal absorb
 - **Linked Machines**: Avoid lightning beams
-- **Hot Hot Hot**: Get out if you've got it; face the beams away
+- **Hot Hot Hot**: Red arrows get out if you've got it; face the beams away from the raid
 - **Scattered Payout**: Big heals; healer CD
 
 # Mug'Zee
 
-## Phase one
+## Red
 
-- **Ability**: Description
-- **💀 Heroic**: Description
+- **Earthshaker Gaol**: Gaol teams be in your soaks; interrupts and kill the add
+- **Stormfury Finger Gun**: Stay still if you're targeted; everyone else dodge
+- **Frostshatter Boots**: Slippery movement; (💀 Aim your blue line to hit a gaol wall; it's line-of-sight)
 
-## Intermission one
+## Blue
 
-- **Ability**: Description
-- **💀 Heroic**: Description
+- **Mk II Electro Shocker**: Kill the adds
+- **Unstable Crawler Mines**: One person detonate their mine at a time; (Heroic: individual soaks)
+- **Goblin-Guided Rocket**: Get to the wall for a soak; (Odds) or (Evens) help soak
+- **Spray and Pray**: Stay still if you're targeted; everyone else dodge
+- **Double Whammy**: Stay still if you've got the line; Tank soak it
+
+## Intermission (40%)
+
+- **Static Charge**: Dodge the charge
+- **Bulletstorm**: Get in close for the Bulletstorm
 
 ## Phase two
 
-- **Ability**: Description
-- **💀 Heroic**: Description
-
-## Intermission two
-
-- **Ability**: Description
-- **💀 Heroic**: Description
-
-## Phase three
-
-- **Ability**: Description
-- **💀 Heroic**: Description
+- **Lust it**
+- **Earthshaker Gaol**: Gaol teams be in your soaks; interrupts and kill the add
+- **Stormfury Finger Gun**: Stay still if you're targeted; everyone else dodge
+- **Frostshatter Boots**: Slippery movement; (💀 Aim your blue line to hit a gaol wall; it's line-of-sight)
+- **Mk II Electro Shocker**: Kill the adds
+- **Unstable Crawler Mines**: One person detonate their mine at a time; (Heroic: individual soaks)
+- **Goblin-Guided Rocket**: Get to the wall for a soak; (Odds) or (Evens) help soak
+- **Spray and Pray**: Stay still if you're targeted; everyone else dodge
+- **Double Whammy**: Stay still if you've got the line; Tank soak it
 
 # Chrome King Gallywix
 
