@@ -125,7 +125,7 @@
 ## ✅ Summary
 
 - Stay with your team; **odds** starting on **TRex**, **evens** starting on **Gorilla**
-- When you're on the **TRex** side, help out with the **group soak** and if the boss targets you with a **laser beam** you need to **stay still**
+- When you're on the **TRex** side, help out with the **group soak** and if the boss targets you with a **laser beam** you need to **stay still** until he locks; then move
 - When you're on the **Ape** side, minimise your movements
   - And when the **blue circles** appear underneath everyone, **stutter step** around
 - When the bosses **fight in the middle**; that's the **intermission**; you **dodge stuff** and **hit both bosses** and then you **swap sides**
@@ -138,7 +138,7 @@
   - Spread out and big heals
 - On the **Ape** side, **adds** appear and **fixate** on people for **12 seconds**
   - The adds **mustn't touch anyone**
-  - Use **snares**, **stuns**, **knockbacks**, Evoker landslides and **speed boosts**
+  - Use **snares**, **stuns**, **knockbacks**, **Evoker landslides**, **Entangling roots**, and **speed boosts**
   - They **expire** after **12 seconds** so no one touch them with damage
 
 # Rik Reverb
@@ -148,20 +148,21 @@
 - Single target
 - This fight has **two phases** that alternate
 - In **phase one** we fight the **boss** while keeping some **pylons** low on energy
-- In **phase two** we ignore the **boss** and we move together as a unit to find **safe spots** in the room
+- In **phase two** we ignore the **boss** and we move together as a group to find **safe spots** in the room
 - **Lust on pull**
 
 ## Phase 1
 
 ### 🪖 Raid
 
-- The **boss** is going to spawn in a couple of **pylons** at called **amplifiers**
-  - The **amplifiers** will slowly fill up a **progress bar** and our objective is to make sure they don't fill up or we wipe
+- The **boss** is going to spawn in a couple of **pylons** called **amplifiers**
+  - The **amplifiers** will slowly fill up a **progress bar** and our objective is to make sure they don't fill up
   - To **discharge** an amplifier you **go up to it and right click on it**
   - This job is best done by **ranged**, including healers, and the **offtank**
-  - Discharging an amplifier puts a stacking debuff on you to discourage like two people doing all of them; we need to rotate people in and out to do it
+  - Discharging an **amplifier** puts a **stacking debuff** on you to discourage like two people doing all of them; we need to rotate people in and out to do it
   - Eventually we **might have like six amplifiers** up at a time and we need a bunch of ranged volunteers to help with dicharging
-  - **Discharging** hurts so use a **personal** or **ask for big heals**
+  - Be aware that **discharging** hurts so maybe use a personal
+    - And also, when you are discharging you can **still move and cast** so once you've started dishcarging you can get back to fighting or healing as long as you stay close to the pylon
 - If you get a **blue circle** on you, spread out and stay away from others
   - Also you shouldn't help with **pylons** while you have the **blue circle** because it'll hurt too much
 - The other ability is a **blue beam** that is targeted on one person
@@ -199,6 +200,7 @@
   - The adds give you a **haste buff** when you attack them
   - Bring some AoE
 - **Discharging an amplifier** now leaves behind a **stacking debuff**, discouraging the same people from doing it over and over
+  - We should be already handling this by having **multiple volunteers** help with **amplifiers**
 
 # Stix Bunkjunker
 
@@ -208,9 +210,9 @@
 - The **main mechanic** of this fight is the **boss** is going to spawn **small piles of garbage** all over the place
   - When this happens, a few people are going to be turned into **Rollers**; basically a **ball rolling forward**
   - If you are a **roller**, your job is to collect **garbge** by rolling into it
-  - You have a **bar** on your UI to fill up, and so once you are **full** you need to roll into a **big bomb**
+  - You have a **progress bar** on your UI to fill up, and so once you are **full** you need to roll into a **big bomb**
   - There will be at least one **big bomb** in the room and if they go off it's a wipe so rolling into the **big bombs** is your priority
-  - If there are no big bombs left because other people have dealt with them, then just roll into the boss
+  - If there are no **big bombs** left because other people have dealt with them, then just roll into the **boss**
   - If you see any **adds** running around, feel free to **run over them**
 - As far as I know a few people get randomly selected as rollers and I think it includes **one tank**
 - **Lust on pull**
@@ -225,6 +227,8 @@
 
 - Everyone is going to get **orange circles** on them; you **spread out** for that
   - And when you have an **orange circle**, you must **not walk into any garbage** because it'll catch fire and **pulse AoE damage** on us
+- A tip if you become a **roller** is that you'll notice that there are **two types of trash piles** to roll over; **small** trash piles and **larger** trash piles
+  - You need to start out with **small piles** until your progress metre is **over half way**, then you can do the **larger** ones
 
 ## ✅ Summary
 
@@ -236,7 +240,7 @@
 
 - There are these new **adds** called **Bombshells** that guard a garbage pile
   - Everyone needs to help **DPS them down**; at 75% HP, they get off their trash pile
-  - Rollers must not roll into these guys ever; so that's a thing to dodge
+  - Rollers must not roll into these guys ever; so that's a thing to **dodge**
 
 # Sprocketmonger Lockenstock
 
@@ -246,6 +250,7 @@
 - **Single target**
 - This fight is mostly about **dodging stuff** and working around the **environment**
   - A lot of the time sections of the platform will be unavailable due to electricity or other bad stuff
+  - _(Point out the grates you can fall through near the small conveyor belts)_
 - **Lust on pull**
 
 ## 🪖 Raid
@@ -373,6 +378,11 @@
   - Each team needs **four DPS** (melee or ranged is fine) and **one healer**
 - Make it so that those teams are sorted in raid as well for easier healing
   - Maybe **group 2** can be **team left** and **group 3** can be **team right**
+- Place **markers** as per image
+  - This is for the **soaks**
+  - **First round of soaks** will be **left team** on **green** and **right team** on **yellow**
+  - Then left moon, right purple
+  - Then left skull, right orange
 
 ## 📜 Overview
 
@@ -384,7 +394,20 @@
 
 ### 🛡️ Tanks
 
-- Description
+- Start by taking the boss over near **yellow** and **green**
+- Your job is to watch the **boss' energy meter** and make sure it **doesn't get to 100**
+  - I would think that at about **80 energy** or so we should be moving to the **opposite side of the room**
+  - We should be switching about every **60 seconds**
+- On the **red side** your priority is the boss and his position
+  - Don't let yourself or the boss go into the **soaks**
+  - Your tankbuster is a knockback and then you'll start **dropping pools**
+  - You need to keep moving to drop all of your **pools** otherwise you'll get **stunned for 30 seconds**
+  - I recommend keeping the boss close to the walls, get knocked back into a wall and then run along walls or just anywhere away from the raid to keep the pools away from us
+- On the **blue side** can you take us to one side of the room (either)
+- We'll be dropping some **puddles** so we want to give us space
+  - For this phase you need to **take a bullet for someone**
+  - What will happen is that **one random person** will get targeted for a **laser mechanic** and you need to **stand in the path** so you take the hit
+  - And of course **mitigate** as much as you can because **damage you mitigate** reduces the damage that the person takes
 
 ### 🪖 Raid
 
@@ -417,10 +440,13 @@
 ## ✅ Summary
 
 - **Red side**
-  - We're dealing with the **gaols** which basically means **team left** on the **left soak**, **team right** on the **right soak**
+  - We're dealing with the **gaols** which basically means **team left** starting on green, **team right** starting on yellow
   - If you get targeted with a bunch of **lightning** coming from the boss, **stay still** and let other people dodge it
 - **Blue side**
   - 
+- For the **intermission** the boss is going to **charge** at someone and then he'll spin around shooting out of his sides
+  - So you need to follow the boss when he charges so you're close and then dodge his AoE
+- **Phase two** is is **red and blue side** at the same time
 
 ## 💀 Heroic
 

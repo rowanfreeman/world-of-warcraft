@@ -88,17 +88,17 @@
 
 ## Red
 
-- **Earthshaker Gaol**: Gaol teams be in your soaks; interrupts and kill the add
+- **Earthshaker Gaol**: Gaol teams be in your soaks; left team on [green], right team on [yellow]
 - **Stormfury Finger Gun**: Stay still if you're targeted; everyone else dodge
 - **Frostshatter Boots**: Slippery movement; (💀 Aim your blue line to hit a gaol wall; it's line-of-sight)
 
 ## Blue
 
 - **Mk II Electro Shocker**: Kill the adds
-- **Unstable Crawler Mines**: One person detonate their mine at a time; (Heroic: individual soaks)
-- **Goblin-Guided Rocket**: Get to the wall for a soak; (Odds) or (Evens) help soak
+- **Unstable Crawler Mines**: One person detonate their mine at a time; (💀: individual soaks)
+- **Goblin-Guided Rocket**: Get to the wall for a soak; (Odds) or (Evens) help soak; then kill the add
 - **Spray and Pray**: Stay still if you're targeted; everyone else dodge
-- **Double Whammy**: Stay still if you've got the line; Tank soak it
+- **Double Whammy Shot**: Stay still if you've got the line; Tank soak it; then take your big red circle away from everyone
 
 ## Intermission (40%)
 
@@ -112,10 +112,10 @@
 - **Stormfury Finger Gun**: Stay still if you're targeted; everyone else dodge
 - **Frostshatter Boots**: Slippery movement; (💀 Aim your blue line to hit a gaol wall; it's line-of-sight)
 - **Mk II Electro Shocker**: Kill the adds
-- **Unstable Crawler Mines**: One person detonate their mine at a time; (Heroic: individual soaks)
-- **Goblin-Guided Rocket**: Get to the wall for a soak; (Odds) or (Evens) help soak
+- **Unstable Crawler Mines**: One person detonate their mine at a time; (💀: individual soaks)
+- **Goblin-Guided Rocket**: Get to the wall for a soak; (Odds) or (Evens) help soak; then kill the add
 - **Spray and Pray**: Stay still if you're targeted; everyone else dodge
-- **Double Whammy**: Stay still if you've got the line; Tank soak it
+- **Double Whammy**: Stay still if you've got the line; Tank soak it; then take your big red circle away from everyone
 
 # Chrome King Gallywix
 
