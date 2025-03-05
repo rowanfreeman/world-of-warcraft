@@ -386,64 +386,68 @@
 
 ## 📜 Overview
 
-- Phases...
+- **Mostly single target** with occasional adds; not very AoE friendly
+- This fight has **two phases**
+  - In **phase one** we will be fighting the boss on either the **blue side of the room** or the **red side**
+  - The boss' **mechanics** are completely different based on which side of the room we're on
+- And then **phase two** is a burn phase where **all mechanics are active**
 
-## Phase one
+## 🪖 Raid
 
-- Description
+- First up is **red side**
+  - We're going to do **team assignments** for this side; so **group 2** and **group 3** you have a special role on **red side**
+  - **Group 2** you are **team left** and **group 3** you are **team right**
+  - What's going to happen is **two group soaks** at the same time
+  - We're starting the fight over here near **yellow and green**, so I want **team left** on the **left marker**, which is **green**, and **team right** on the **right marker** which is **yellow**
+  - So as soon as the **soak** mechanic happens, **team left** group up on **left marker**, **team right** group up on **right marker**
+  - You can see there are more markers; again we do left and right, and then later, left and right
+  - If you're not in special team for the **red side** then you can just stay out and **focus the boss**
+  - Only a couple of other mechanics on red side
+    - Occasionally you might get a **debuff** that will give you **slippery feet**; nothing you need to do it just makes it hard to move around
+    - The other thing is a **lightning frontal** from the boss; everyone dodge it
+- For the **blue side** we also have group assignments but it's just **odds and evens** - have a look at what group you're in
+  - The reason we're doing groups is for a **group soak** which is a **big red swirly** on someone
+  - When you get the **big red swirly** on you, take it to a wall and **odds team help soak**; **odds** up first and then later on **evens** will do the next soak, and we just rotate
+- The next mechanic on **blue side** is **crawler mines**
+  - These are adds that **fixate**
+  - You **can't kill them** with damage; instead we need to **walk into them** to set them off but we **don't** want to do them all at the same time because it's too much damage
+  - So we need to **stagger them** by about 2 or 3 seconds apart
+  - So if I **call out your name**, walk into your own mine
+  - If you're the **last one left with a mine**, just set yours off when you're ready as long as you're healthy because I'll probably ignore the last person
+- The next mechanic on **blue side** is a **red line focussed on one person**
+  - The line is the **tank mechanic** and what you need to do is **stand still**
+  - Then the **tank** will save you, and then you'll get a **big red circle** on you, **move away** from the raid with the **big red circle**
+- The only other thing on **blue side** is a **frontal** from the boss; dodge it
+  - And **goblin adds** also come out, kill them quickly
 
-### 🛡️ Tanks
+## 🛡️ Tanks
 
 - Start by taking the boss over near **yellow** and **green**
 - Your job is to watch the **boss' energy meter** and make sure it **doesn't get to 100**
   - I would think that at about **80 energy** or so we should be moving to the **opposite side of the room**
-  - We should be switching about every **60 seconds**
+  - We should be switching sides about every **60 seconds**
 - On the **red side** your priority is the boss and his position
-  - Don't let yourself or the boss go into the **soaks**
+  - Don't let yourself or the boss go into the **soaks** (the gaols)
   - Your tankbuster is a knockback and then you'll start **dropping pools**
-  - You need to keep moving to drop all of your **pools** otherwise you'll get **stunned for 30 seconds**
-  - I recommend keeping the boss close to the walls, get knocked back into a wall and then run along walls or just anywhere away from the raid to keep the pools away from us
+  - You need to **keep moving** to drop all of your **pools** otherwise you'll get **stunned for 30 seconds**
+  - I recommend keeping the boss close to the **walls**, get knocked back into a wall and then run along walls or just anywhere away from the raid to keep the pools away from us
 - On the **blue side** can you take us to one side of the room (either)
 - We'll be dropping some **puddles** so we want to give us space
-  - For this phase you need to **take a bullet for someone**
+  - For blue side you need to **take a bullet for someone**; that's your tank mechanic
   - What will happen is that **one random person** will get targeted for a **laser mechanic** and you need to **stand in the path** so you take the hit
-  - And of course **mitigate** as much as you can because **damage you mitigate** reduces the damage that the person takes
-
-### 🪖 Raid
-
-- Description
-
-## Intermission
-
-- Description
-
-## Phase two
-
-- Description
-
-### 🛡️ Tanks
-
-- Description
-
-### 🪖 Raid
-
-- Description
-
-## Phase three
-
-- Description
-
-### 🛡️ Tanks
-
-- Description
+  - And of course **mitigate** as much as you can because the **damage** you mitigate **reduces** the **damage** that the person takes
 
 ## ✅ Summary
 
 - **Red side**
   - We're dealing with the **gaols** which basically means **team left** starting on green, **team right** starting on yellow
-  - If you get targeted with a bunch of **lightning** coming from the boss, **stay still** and let other people dodge it
+  - The boss has a lightning frontal; everyone dodge it
 - **Blue side**
-  - 
+  - Kill the **goblin adds** any time they spawn
+  - When the **crawler mines** come out, you can't kill them with **damage**; instead we need to **boop them** one at a time and **stagger their explosions**
+  - For the **big group soak**, take it to a **wall** and everyone help soak if you're able
+  - The boss will do a frontal **cone of bullets**; everyone dodge it
+  - If the boss targets you with a **line on the ground**, stay still and **let a tank save you**; once the tank has saved you, **run out with your big red circle**
 - For the **intermission** the boss is going to **charge** at someone and then he'll spin around shooting out of his sides
   - So you need to follow the boss when he charges so you're close and then dodge his AoE
 - **Phase two** is is **red and blue side** at the same time

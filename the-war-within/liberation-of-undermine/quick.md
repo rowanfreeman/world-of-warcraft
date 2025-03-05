@@ -23,10 +23,11 @@
 - **Spew Oil**: Purple circles to the walls or behind the boss
 - **Incendiary Fire**: Red arrows, stutter step to avoid the orange circles
 - **Bomb Voyage!**: Big heals
-- **Mechanical Breakdown/Tune Up**: Phase 2, lust it, interrupt and stun the adds
+- **Mechanical Breakdown/Tune Up**: Phase 2, LUST IT, interrupt and stun the adds
 
 # Cauldron of Carnage
 
+- LUST ON PULL
 - **Colossal Clash**: Intermission; stay with your team, hit both bosses, and then swap sides
 - **🦖 Scrap Bomb**: Help soak the bomb
 - **🦖 Blastburn Roarcannon**: Stay still with it; let everyone else dodge
@@ -37,6 +38,7 @@
 
 # Rik Reverb
 
+- LUST ON PULL
 - **Amplification**: Tanks and ranged help keep the amplifiers low on charge
 - **Echoing Chant**: Dodge swirlies
 - **Faulty Zap**: Blue circles spread out
@@ -46,6 +48,7 @@
 
 # Stix Bunkjunker
 
+- LUST ON PULL
 - **Electromagnetic Sorting**: Rollers collect garbage and then run into any big bombs you see; otherwise run into the boss; 💀 everyone else kill the Territorial Bombshells
 - **Cleanup Crew**: Tank the adds; interrupts on Scrapmasters
 - **Incinerator**: Spread out and don't run into any garbage
@@ -53,6 +56,7 @@
 
 # Sprocketmonger Lockenstock
 
+- LUST ON PULL
 - **Screw Up**: Stutter step and dodge the circles
 - **Wire Transfer**: We need to move
 - **Sonic Ba-Boom**: Big heals
@@ -65,7 +69,7 @@
 
 ## Phase one
 
-- **Pay-Line**: Dodge the coins rolling through, stand near them to get a buff; tank or ranged go throw them
+- **Pay-Line**: Dodge the coins rolling through, stand near them to get a buff; tank or ranged go and clear coins when they hit the wall
 - **Foul Exhaust**: Big heals, get through the heal absorb
 - **Spin To Win!**: Interrupts on the Reel Assistants; Kill the adds, submit X and Y tokens; If you get the debuff move away and ask for a dispel
 - **Withering Flames**: Move away and ask for a dispel; everyone else dodge the flames
@@ -77,6 +81,7 @@
 - **Bomb/Shock**: Kill the adds, don't let them touch you, use CC
 
 ## Phase two (30%)
+- LUST IT
 - **Cheat to Win!/Rig the Game**: Phase two, lust it, stay grouped
 - **Pay-Line**: Dodge the coins rolling through; tank or ranged go throw them
 - **Foul Exhaust**: Big heals, get through the heal absorb
@@ -89,15 +94,15 @@
 ## Red
 
 - **Earthshaker Gaol**: Gaol teams be in your soaks; left team on [green], right team on [yellow]
-- **Stormfury Finger Gun**: Stay still if you're targeted; everyone else dodge
+- **Stormfury Finger Gun**: Everyone dodge it
 - **Frostshatter Boots**: Slippery movement; (💀 Aim your blue line to hit a gaol wall; it's line-of-sight)
 
 ## Blue
 
 - **Mk II Electro Shocker**: Kill the adds
-- **Unstable Crawler Mines**: One person detonate their mine at a time; (💀: individual soaks)
+- **Unstable Crawler Mines**: One person detonate their mine at a time; <Pick someone to go> (💀: individual soaks)
 - **Goblin-Guided Rocket**: Get to the wall for a soak; (Odds) or (Evens) help soak; then kill the add
-- **Spray and Pray**: Stay still if you're targeted; everyone else dodge
+- **Spray and Pray**: Everyone dodge it
 - **Double Whammy Shot**: Stay still if you've got the line; Tank soak it; then take your big red circle away from everyone
 
 ## Intermission (40%)
@@ -105,9 +110,9 @@
 - **Static Charge**: Dodge the charge
 - **Bulletstorm**: Get in close for the Bulletstorm
 
-## Phase two
+## Phase two (after intermission)
 
-- **Lust it**
+- LUST IT
 - **Earthshaker Gaol**: Gaol teams be in your soaks; interrupts and kill the add
 - **Stormfury Finger Gun**: Stay still if you're targeted; everyone else dodge
 - **Frostshatter Boots**: Slippery movement; (💀 Aim your blue line to hit a gaol wall; it's line-of-sight)
